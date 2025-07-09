@@ -1,0 +1,746 @@
+{
+  "GENERAL": {
+    "DOCUMENT-TITLE": {
+      "LABEL": "Leitungsgremium",
+      "PAGES": {
+        "LOGIN": "Anmeldung",
+        "FORGOT-PASS": "Ich habe mein Passwort vergessen.",
+        "SEND-SMS": "Sms senden",
+        "SMS-VERIFICATION": "Sms-Prüfung",
+        "REMOTELOGIN": "Anmeldung"
+      }
+    },
+    "CONTRACT-MODAL": {
+      "TITLE": "Service- und Nutzungsbedingungen",
+      "BUTTON": "Ich stimme zu."
+    },
+    "INTRO-DEFAULT-OPTIONS": {
+      "TITLE": "Anmeldung starten",
+      "NEXT-LABEL": "Vorwärts <i class='fal fa-chevron-right ml-2'></i>",
+      "PREV-LABEL": "<i class='fal fa-chevron-left mr-2'></i> Zurück",
+      "SKIP-LABEL": "<i class='fal fa-times'></i>",
+      "DONE-LABEL": "Fertigstellen"
+    },
+    "REDIRECT-TO-OLD-VIEW": {
+      "DESCRIPTION": "Sie können diese Seite jetzt nur noch in der alten Ansicht aufrufen.",
+      "BUTTON-TEXT": "In der alten Ansicht öffnen"
+    },
+    "VIEWING-NOT-ALLOWED": {
+      "TITLE": "Du darfst diesen Bereich nicht ansehen."
+    },
+    "ALL": "Insgesamt",
+    "LOGOUT": "Abmelden",
+    "MY-ACCOUNT": "Benutzerinformationen",
+    "CHOOSE": "Wählen",
+    "CLEAR": "Löschen",
+    "COPY": "Kopieren",
+    "COPIED": "Kopiert",
+    "FILTERS": "Filter",
+    "FILTER": "Filtern",
+    "SEARCH": "Suchen",
+    "SEARCH-ADMIN-PAGE": "Beispiel: Zusätzliche Einstellungen",
+    "YES": "Genau.",
+    "NO": "Nein.",
+    "AVAILABLE": "Das gibt es.",
+    "NOT_AVAILABLE": "Nein.",
+    "OPENED": "Es ist offen.",
+    "CLOSED": "Aus",
+    "ACTIVE": "Aktiv",
+    "PASSIVE": "Passiv",
+    "SHOW": "Anzeigen",
+    "HIDE": "Ausblenden",
+    "FORWARD": "Vorwärts",
+    "BEGIN": "Starten",
+    "WAITING-FOR-APPROVAL": "Warten auf Genehmigung",
+    "SUSPENDED": "Anhaltend",
+    "PREVIEW-SITE": "Seite anzeigen",
+    "PREVIEW-ON-WEB": "Ansicht auf der Website",
+    "QUICK-EDIT": "Schnelle Bearbeitung",
+    "NG-SELECT-NOT-FOUND-TEXT": "Keine Akte gefunden.",
+    "NG-SELECT-ADD-TAG-TEXT": "Neu erstellen:",
+    "NG-SELECT-LOADING-TEXT": "Laden",
+    "NG-SELECT-TYPE-TO-SEARCH-TEXT": "Suche nach Schreiben",
+    "NG-SELECT-PLACEHOLDER-TEXT": "Wählen",
+    "HELP-BAR": {
+      "TITLE": "Hilfe-Seite",
+      "BUTTON.LABEL": "Hilfe",
+      "REDIRECT-BUTTON.LABEL": "Hilfe-Seite"
+    },
+    "SELECT-FILE": "Datei auswählen",
+    "IMAGE": "Bild",
+    "ADD-IMAGE": "Bild hinzufügen",
+    "CHANGE-IMAGE": "Bild bearbeiten",
+    "IMAGE-UPLOAD-INFO": "Oder ziehen Sie es raus.",
+    "DRAG-IMAGE": "Lassen Sie es hier.",
+    "SHOWCASE-IMAGE": "& Ansicht",
+    "EDIT-SEO-DETAIL": "Bearbeiten",
+    "COPY-TO-CLIPBOARD": "Kopiert",
+    "INVALID-IDENTITY-NUMBER": "Ungültige TC-ID-Nummer",
+    "BUTTON": {
+      "SUBMIT": "Bestätigen",
+      "SAVE": "Speichern",
+      "SAVE-AND-EXIT": "Speichern und Beenden",
+      "SAVE-AND-ADD-NEW": "Speichern und Hinzufügen",
+      "CANCEL": "Gib's auf.",
+      "CONFIRM": "Bestätigen",
+      "UPDATE": "Aktualisieren",
+      "CLOSE": "Schließen",
+      "DELETE": "Löschen",
+      "EDIT": "Bearbeiten",
+      "RESET": "Formular zurücksetzen",
+      "MORE": "Mehr",
+      "ADD": "Hinzufügen",
+      "OK": "In Ordnung.",
+      "GO-BACK": "Rückgabe"
+    },
+    "EXPORT": "Nach Excel exportieren",
+    "SEO": {
+      "TITLE": "Informationen über Seo"
+    },
+    "STATUS": {
+      "LABEL": "Status"
+    },
+    "ID": {
+      "LABEL": "ID"
+    },
+    "STATUS-CARD-TITLE": "Status",
+    "SUCCESS-MESSAGE": {
+      "POST": "Gespeichert",
+      "PUT": "Bearbeiten gespeichert.",
+      "DELETE": "Gestrichen",
+      "SEND-EMAIL": "Gesendet",
+      "IN-QUEUE": "Ihre Operation wurde erfolgreich abgewartet. Sie können Ihre Operation über die Seite Einstellungen > Operation Tail verfolgen.",
+      "CACHE-CLEAR": "Ihre Cache-Bereinigung wurde abgeschlossen.",
+      "QUEUE": "Ihre Transaktion wurde erfolgreich in die Warteschlange gestellt.",
+      "REPORT": "Ihre Berichterstellung wurde erfolgreich in die Warteschlange gestellt. Sie können Ihre Transaktion über die Seite Einstellungen > Operation Tail verfolgen.",
+      "COMPLETED": "Ihr Verfahren ist abgeschlossen."
+    },
+    "FAILED-MESSAGE": {
+      "SEND-EMAIL": "Ihre E-Mail-Anfrage fand nicht statt, weil die E-Mail-Bewilligung des Mitglieds geschlossen wurde."
+    },
+    "LIVE-SUPPORT": "Unterstützungssystem",
+    "SIDE-BAR": {
+      "TOGGLE-MENU-LABEL": {
+        "SHOW": "Menü stabilisieren",
+        "HIDE": "Menü ausblenden"
+      },
+      "DASHBOARD.LABEL": "Startseite",
+      "CATALOG-MODULE.LABEL": "Katalog",
+      "CONTENT-MODULE.LABEL": "Inhalt",
+      "MAIL-MODULE.LABEL": "Postverwaltung",
+      "BLOG-MODULE.LABEL": "Blogs",
+      "MEMBER-MODULE.LABEL": "Mitglieder und Händler",
+      "USER-MODULE.LABEL": "Verwender",
+      "SETTING-MODULE.LABEL": "Einstellungen",
+      "CAMPAIGN-MODULE.LABEL": "Kampagnen",
+      "SHIPMENT-MODULE.LABEL": "Frachteinstellungen",
+      "STATISTIC-MODULE.LABEL": "Statistik",
+      "STATISTIC-ORDER.LABEL": "Auftragsstatistik",
+      "STATISTIC-OVERVIEW.LABEL": "Umfassende Statistik",
+      "STATISTIC-VISIT.LABEL": "Besuchsstatistik",
+      "STATISTIC-MEMBER.LABEL": "Mitgliedsstatistik",
+      "STATISTIC-PRODUCT.LABEL": "Produktstatistik",
+      "REPORT.LABEL": "Berichte",
+      "INTEGRATION-MODULE.LABEL": "Integrationen",
+      "APP-STORE-MODULE.LABEL": "Anwendungen",
+      "PACKAGE-INFO-MODULE.LABEL": "Mein Konto",
+      "GENERAL-SETTING-MODULE.LABEL": "Allgemeine Einstellungen",
+      "DESIGN-SETTING-MODULE.LABEL": "Design-Einstellungen",
+      "PRODUCTS.LABEL": "Erzeugnisse",
+      "SELECTION-GROUPS.LABEL": "Zusätzliche Eigenschaften",
+      "OPTION-GROUPS.LABEL": "Variantensystem",
+      "SPEC-GROUPS.LABEL": "Produkteigenschaften",
+      "SPEC-NAMES.LABEL": "Namen der Immobilie",
+      "EXTRA-INFOS.LABEL": "Zusätzliche Informationen",
+      "BRANDS.LABEL": "Marken",
+      "PAGES.LABEL": "Seiten",
+      "MAILLISTS.LABEL": "Postliste",
+      "MAILLIST-IMPORT.LABEL": "Übertragen der Postliste",
+      "BLOGS.LABEL": "Blogs",
+      "BLOG-TAGS.LABEL": "Blog-Tags",
+      "BLOG-CATEGORIES.LABEL": "Blog-Kategorien",
+      "BLOG-COMMENTS.LABEL": "Blog-Kommentar-Einstellungen",
+      "MAILLIST-GROUPS.LABEL": "Maillistengruppen",
+      "MEMBERS.LABEL": "Mitglieder",
+      "STMP-MAIL-SETTINGS.LABEL": "SMTP-Mail-Einstellungen",
+      "SMTP-PREF.LABEL": "SMTP-Einstellungen",
+      "MAIL-ACCOUNT.LABEL": "Postkonten",
+      "SMS.LABEL": "SMS-Einstellungen",
+      "SMS-MODULE.LABEL": "SMS-Einstellungen",
+      "NET-GSM-SETTINGS.LABEL": "Netz-GSM-Einstellungen",
+      "SMS-SETTINGS.LABEL": "SMS-Einstellungen",
+      "NET-GSM-LOGS.LABEL": "Netz-GSM-Berichte",
+      "MEMBER-GROUPS.LABEL": "Mitglieder/Bay-Gruppen",
+      "USERS.LABEL": "Verwender",
+      "BLACKLISTS.LABEL": "Gesperrte IPs",
+      "PROCESS-LOGS.LABEL": "Betriebsprotokolle",
+      "POLLS.LABEL": "Umfragen",
+      "CATEGORIES.LABEL": "Kategorien",
+      "SHIPMENT-PREF.LABEL": "Lieferung Zusätzliche Einstellungen",
+      "ABANDONEDS.LABEL": "Erinnerung an den Korb",
+      "ABANDONED_CARTS.LABEL": "Verlassene Körbe",
+      "ABANDONED_ORDERS.LABEL": "Verlassene Aufträge",
+      "FRAUD-RISKS.LABEL": "Risikokategorien",
+      "SITE-CONTENTS.LABEL": "Inhaltseinstellungen",
+      "DISTRIBUTORS.LABEL": "Persönliche Versorgung",
+      "PRICE-GAP.LABEL": "Preisspannen",
+      "LABELS.LABEL": "Persönliche Tags",
+      "FILTER-MANAGEMENT.LABEL": "Filter",
+      "PAYMENT-SETTINGS.LABEL": "Zahlungseinstellungen",
+      "CURRENCIES.LABEL": "Währungen",
+      "FORMS.LABEL": "Vordrucke",
+      "PRODUCT-CUSTOMIZATION-GROUPS.LABEL": "Privatisierung des Produkts",
+      "DESIGN-SETTINGS.LABEL": "Design-Einstellungen",
+      "COMMON-PREF.LABEL": "Warenbezeichnung",
+      "CUSTOMIZATION-GROUPS.LABEL": "Formblatt für die Registrierung von Mitgliedern",
+      "PAYMENTS.LABEL": "Zahlungen",
+      "ORDER-MODULE.LABEL": "Beschlüsse",
+      "CONTRACTS.LABEL": "Abonnements",
+      "SEO-TAGS.LABEL": "SEO+ Tags",
+      "ORDERS.LABEL": "Beschlüsse",
+      "POINT-LOGS.LABEL": "Ergebnisverlauf",
+      "POINT-PREF.LABEL": "Score-System",
+      "SHIPPING-COMPANIES.LABEL": "Frachtunternehmen",
+      "COUNTRIES.LABEL": "Länder",
+      "LOCATIONS.LABEL": "Städte",
+      "TOWN-GROUPS.LABEL": "Bezirke / Bezirke",
+      "REGIONS.LABEL": "Liefergebiete",
+      "FILTER-MENU-SETTINGS.LABEL": "Filtereinstellungen",
+      "ORDER-REFUND-REQUESTS.LABEL": "Abbrechen und Zurückgeben",
+      "LANGUAGES.LABEL": "Spracheinstellungen",
+      "BULK-EDIT.LABEL": "Mehrere Produktaktualisierung",
+      "INVOICE-SETTINGS.LABEL": "Bill-Einstellungen",
+      "INVOICE-DESIGN.LABEL": "Gesetzentwurf",
+      "INVOICE-EXPORT.LABEL": "Ausgabe der Rechnung",
+      "DRAFT-ORDER.LABEL": "Verschreibungsauftrag",
+      "USER-ROLES.LABEL": "Benutzerrollen",
+      "TICKETS.LABEL": "Unterstützungswünsche",
+      "MAIL-CONTENTS.LABEL": "Mail-Vorlagen",
+      "CUSTOM-MAILS.LABEL": "Postverwaltung",
+      "CUSTOM-MAIL.LABEL": "Postverwaltung",
+      "SUBSCRIPTIONS.LABEL": "Resorptionsmanagement",
+      "COUPONS.LABEL": "Geschenkprüfungen",
+      "POS-CAMPAIGNS.LABEL": "Posen-Kampagnen",
+      "PROMOTIONS.LABEL": "Absatzförderungen",
+      "QUICK-CARTS.LABEL": "Schnell kaufen",
+      "PACKAGES.LABEL": "Paketgenerator",
+      "PURCHASE-LIMITATIONS.LABEL": "Kaufkraftgrenze",
+      "INSTAGRAM-SHOPS.LABEL": "Instagram Feed & Shop",
+      "THEMES.LABEL": "Themen",
+      "THEMES-EXTRA-PREF.LABEL": "Themen-Site-Einstellungen",
+      "SLIDERS.LABEL": "Schieber",
+      "MENU-ITEMS.LABEL": "Menüverwaltung",
+      "BANNER-MANAGEMENT.LABEL": "Banner",
+      "DROPDOWN-PREF.LABEL": "Menü nach unten öffnen",
+      "BLOCKS.LABEL": "Blöcke",
+      "CHECKOUT-DESIGN-PREF.LABEL": "Design der Zahlungsseite",
+      "EXTRA-PREF.LABEL": "Zusätzliche Einstellungen",
+      "SEO-PREF.LABEL": "SEO-Einstellungen",
+      "CUSTOM-SCRIPTS.LABEL": "Benutzerdefinierte Skriptcodes",
+      "FILE-MANAGER.LABEL": "Dateiverwaltung",
+      "OPTIMIZATIONS.LABEL": "Optimierungen",
+      "PARTNERSHIPS.LABEL": "Zusammenarbeit",
+      "OUTPUTS.LABEL": "Idee-Ausgabe",
+      "CLIENT.LABEL": "API",
+      "CLIENT-WEBHOOKS.LABEL": "Webhook-Verwaltung",
+      "CLIENT-PERMISSION.LABEL": "Genehmigungsverwaltung",
+      "MARKETPLACE-INTEGRATIONS.LABEL": "Märkte",
+      "INTEGRATIONS.LABEL": "Integrationen",
+      "APP-STORE.LABEL": "Anwendungsspeicher",
+      "JIVOCHAT.LABEL": "Live-Unterstützung",
+      "GENERAL-SETTINGS.LABEL": "Allgemeine Einstellungen",
+      "MIDBLOCKS.LABEL": "Fensterblöcke",
+      "TABBED-MIDBLOCKS.LABEL": "Tabbed Vitrin Blöcke",
+      "QUEUE-PROCESS.LABEL": "Betriebstiefe",
+      "PRODUCT-SHOWCASE.LABEL": "Produkt Ansicht Bestellung",
+      "PRODUCT-BUTTON.LABEL": "Produktknöpfe",
+      "PRODUCT-COMMENT.LABEL": "Produktkommentare",
+      "PRODUCT-FEED.LABEL": "Vorschläge für Produkte",
+      "FAVOURITED-PRODUCT.LABEL": "Lieblingsprodukte",
+      "MULTI-PRODUCT-EDIT.LABEL": "Produktbasierte Aktualisierung",
+      "STOCK-WARNING.LABEL": "Produkt-News-Liste",
+      "QUESTION.LABEL": "Produktfragen",
+      "POPUP.LABEL": "Popup & Bar Management",
+      "ACTIVE-CARTS.LABEL": "Aktivbaspeten",
+      "SHOPPING-EXPERIENCE.LABEL": "Einkaufserlebnisse",
+      "COLLECTION.LABEL": "Erhebung",
+      "GENERAL-SETTINGS-DESCRIPTIONS": {
+        "EXTRA-PREF": "Verwalten Sie Ihre Website-Basiseinstellungen.",
+        "SEO-PREF": "Passen Sie Ihre Suchmaschineneinstellungen an.",
+        "CUSTOM-SCRIPTS": "Bearbeiten Sie Ihre Tracking-Codes.",
+        "PAYMENT-SETTINGS": "Wählen Sie Ihre Zahlungsmethoden und verwalten Sie Ihre Zahlungseinstellungen.",
+        "LANGUAGES": "Bearbeiten Sie Ihre Inhalte auf Ihrer Website.",
+        "USER-MODULE": "Verwalten Sie Ihre Management-Panel-Benutzer und Benutzerberechtigungen.",
+        "COMMON-PREF": "Ordnen Sie Ihre Unternehmensinformationen für Ihre Verkaufsabsorption.",
+        "FILE-MANAGER": "Verwalten Sie Ihre privaten Dateien und Ordner.",
+        "CUSTOMIZATION-GROUPS": "Verwalten Sie Ihre Mitgliedschaft Anmeldeformular.",
+        "OPTIMIZATIONS": "Löschen Sie Ihren vorderen Speicher und optimieren Sie Ihren Katalog.",
+        "CURRENCIES": "Aktualisieren und verwalten Sie Ihre Wechselkurse.",
+        "LINKED-ACCOUNTS": "Aktualisieren und verwalten Sie Ihre verknüpften Konten.",
+        "SECURITY-SETTINGS": "Aktualisieren und verwalten Sie Ihre Sicherheitseinstellungen."
+      },
+      "DESIGN-SETTINGS-DESCRIPTIONS": {
+        "THEMES": "Liste und leite das Thema.",
+        "THEMES-SITE-PREF": "Themen-Site-Einstellungen",
+        "SLIDERS": "Stell die Slider auf.",
+        "MENU-ITEMS": "Menüs bearbeiten.",
+        "BANNERS": "Führen Sie die Banner aus.",
+        "PROMOTION-BARS": "Förderungsleiste",
+        "DROPDOWN-PREFS": "Verwalten Sie unten geöffnete Menüs.",
+        "BLOCKS": "Führen Sie die rechten und linken Blöcke.",
+        "CHECKOUT-DESIGN-PREF": "Verwalten Sie das Design der Zahlungsseite.",
+        "MIDBLOCKS": "Führen Sie die Fensterblöcke aus.",
+        "TABBED-MIDBLOCKS": "Führen Sie die Fensterblöcke aus.",
+        "POPUP": "Verwalten Sie Popup- und Bar-Designs."
+      },
+      "LINKED-ACCOUNTS": {
+        "LABEL": "Marketing- und Analyse-Tools"
+      },
+      "SECURITY-SETTINGS": {
+        "LABEL": "Sicherheitseinstellungen"
+      },
+      "PROMOTION.LABEL": "Absatzförderungen",
+      "PACKAGE-INFO.LABEL": "Mein Konto"
+    },
+    "FORM-BUTTONS": {
+      "DELETE-MODAL-CONTENT": "Sind Sie sicher, dass Sie diesen Prozess löschen möchten?",
+      "RESET-MODAL-TITLE": "Formular zurücksetzen",
+      "RESET-MODAL-CONTENT": "Es gibt nicht registrierte Änderungen auf dem Formular. Möchten Sie es zurücksetzen?"
+    },
+    "DATATABLE": {
+      "MESSAGES": {
+        "EMPTY": "<i class='fal fa-page-break'></i><div>Keine Akte gefunden.</div>",
+        "CHOOSE-BRAND": "<i class='fal fa-crosshairs'></i><div>Bitte wählen Sie eine Marke aus.</div>",
+        "CHOOSE-CATEGORY": "<i class='fal fa-crosshairs'></i><div>Bitte wählen Sie eine Kategorie aus.</div>",
+        "CHOOSE-COLLECTION": "<i class='fal fa-crosshairs'></i><div>Bitte wählen Sie eine Sammlung aus.</div>",
+        "TOTAL": "Aufzeichnung",
+        "SELECTED": "Ausgewählt"
+      },
+      "FILTER-FORM": {
+        "FILTER-ALL": "Insgesamt",
+        "SAVE-SEARCH": {
+          "TITLE": "Speichern",
+          "NAME": "Protokollname"
+        },
+        "NEW-SEARCH": "Neue Suche",
+        "DUPLICATE-NAME": "Sie haben einen Filter in diesen Namen und Kriterien registriert. Bitte geben Sie einen anderen Namen und Suchkriterien ein."
+      },
+      "ACTIONS": {
+        "NAME": "Vorhaben",
+        "DELETE": {
+          "NAME": "Löschen",
+          "MESSAGE": "Sind Sie sicher, dass Sie die ausgewählten Datensätze löschen möchten? Diese Operation kann nicht abgerufen werden."
+        },
+        "MOVE": {
+          "NAME": "Verschieben",
+          "MESSAGE": "Sind Sie sicher, dass Sie die ausgewählten Datensätze verschieben möchten?"
+        },
+        "COPY": {
+          "NAME": "Kopieren",
+          "MESSAGE": "Sind Sie sicher, dass Sie die ausgewählten Datensätze kopieren möchten?"
+        },
+        "UPDATE": {
+          "NAME": "Aktualisieren",
+          "MESSAGE": "Sind Sie sicher, dass Sie die ausgewählten Datensätze aktualisieren möchten?",
+          "SELECT-ALL": "Prozess für den gesamten Zeitraum.",
+          "DESELECT-ALL": "Nehmen Sie die Wahl zurück."
+        },
+        "CHANGE-STATUS-TO-ACTIVE": {
+          "NAME": "Aktivieren",
+          "MESSAGE": "Sind Sie sicher, dass Sie den Status der ausgewählten Datensätze in 'Active' ändern möchten?"
+        },
+        "CHANGE-STATUS-TO-PASSIVE": {
+          "NAME": "Machen Sie es passiv",
+          "MESSAGE": "Sind Sie sicher, dass Sie den Status der ausgewählten Datensätze in 'Pasif' ändern möchten?"
+        }
+      }
+    },
+    "NOTIFICATIONS": {
+      "TITLE": "Mitteilungen",
+      "ORDERS": "Neue Befehle.",
+      "NO-NOTIFICATIONS": "Keine neuen Meldungen."
+    },
+    "QUESTION": {
+      "LABEL": "Produktfragen"
+    }
+  },
+  "COMPONENT": {
+    "DATAGRID": {
+      "SHOW": "Anzeigen",
+      "HIDE": "Ausblenden",
+      "RECORD-COUNT": "Anzahl der Aufzeichnungen",
+      "FROZEN-ON": "Entsperren",
+      "FROZEN-OFF": "Sperren",
+      "ITEM-SELECTED": "Die Registrierung wurde ausgewählt."
+    },
+    "SELECT-LIST": {
+      "SEARCH": {
+        "PLACEHOLDER": "Suchen Sie nach einer Kategorie."
+      },
+      "NOT-FOUND": "Es wurden keine Ergebnisse gefunden.",
+      "BACK": "Zurück",
+      "SELECTED-LIST": "Ausgewählte Datensätze",
+      "SUBMIT": "In Ordnung.",
+      "SELECTED": "Ausgewählt",
+      "SELECT": "Wählen",
+      "DESELECT": "Entfernen"
+    },
+    "TEXT-EDITOR": {
+      "TAB": {
+        "SOURCE": "Quelle",
+        "FILE": "Datei",
+        "DIRECTORY": "Ordner",
+        "FILES": "Dateien"
+      },
+      "FORM": {
+        "SOURCE": "Bildquelle",
+        "ALT": "Titel (Alt Tag)",
+        "WIDTH": "Breite",
+        "HEIGHT": "Höhe",
+        "LINK": "Verbindung",
+        "LINK-OPEN-TYPE": "In neuem Tab öffnen",
+        "ADD": "Hinzufügen"
+      },
+      "TITLE": "Dateiverwaltung",
+      "TYPE-DEFAULT-TEXT": "Hauptordner",
+      "NO-RECORDS": "Keine Akte gefunden.",
+      "FIELDS": {
+        "NEW-FOLDER": {
+          "LABEL": "Neuer Ordner"
+        },
+        "UPLOAD": {
+          "LABEL": "Datei laden"
+        },
+        "COMPRESS": {
+          "LABEL": "Exportieren"
+        },
+        "REMOVE-SELECTED": {
+          "LABEL": "Ausgewählte löschen"
+        },
+        "REFRESH": {
+          "LABEL": "Aktualisieren"
+        },
+        "OPEN-DIRECTORY": {
+          "LABEL": "Ordner öffnen"
+        },
+        "COMPRESS-DIRECTORY": {
+          "LABEL": "Exportieren",
+          "TOOLTIP": "Exportieren Sie den Ordner, in dem Sie sich befinden."
+        },
+        "DELETE-DIRECTORY": {
+          "LABEL": "Ordner löschen"
+        },
+        "VIEW-FILE": {
+          "LABEL": "Ansicht"
+        },
+        "DOWNLOAD-FILE": {
+          "LABEL": "Datei herunterladen"
+        },
+        "DELETE-FILE": {
+          "LABEL": "Datei löschen"
+        },
+        "CURRENT-SIZE": {
+          "LABEL": "Größe"
+        },
+        "MAX-SIZE": {
+          "LABEL": "Maximale Größe"
+        },
+        "ITEM": {
+          "LABEL": "Gegenstand"
+        }
+      },
+      "MODALS": {
+        "CREATE-DIRECTORY": {
+          "TITLE": "Neuer Ordner",
+          "INPUT-LABEL": "Ordnername"
+        },
+        "FILE-UPLOAD": {
+          "TITLE": "Datei laden",
+          "INPUT-LABEL": "Datei auswählen"
+        }
+      },
+      "ALERT": {
+        "DIRECTORY-EMPTY": "Dein Knie ist leer.",
+        "FILE-NOT-SELECTED": "Datei nicht ausgewählt.",
+        "MAX-SIZE": "Fügt maximale Größe (arg0) mit den angeforderten Dateien ein.",
+        "MAX-FILE-SIZE": "Infundiert maximale Größe (arg1) mit der angeforderten Datei (arg0).",
+        "UPLOAD-MAX-FILE-LIMIT": "Sie können 10 Dateien max. Auf einmal hochladen.",
+        "FILE-EXTENSION-NOT-VALID": "Die Erweiterung (arg0), die Sie zu laden versuchen, wird vom System nicht unterstützt."
+      }
+    }
+  },
+  "MODAL": {
+    "RESET": {
+      "TITLE": "Formular zurücksetzen",
+      "CONTENT": "Es gibt nicht registrierte Änderungen auf dem Formular. Möchten Sie es zurücksetzen?",
+      "PRIMARY-BUTTON-TEXT": "Formular zurücksetzen",
+      "SECONDARY-BUTTON-TEXT": "Bearbeiten fortsetzen"
+    },
+    "COPY-PRODUCT": {
+      "TITLE": "Produkt kopieren",
+      "CONTENT": "Es gibt nicht gespeicherte Änderungen auf dem Formular. Möchten Sie es kopieren?",
+      "PRIMARY-BUTTON-TEXT": "Produkt kopieren",
+      "SECONDARY-BUTTON-TEXT": "Bearbeiten fortsetzen"
+    },
+    "REMOVE-FILTER": {
+      "TITLE": "Registrierter Filter löschen",
+      "CONTENT": "Sind Sie sicher, dass Sie den registrierten Filter löschen möchten?",
+      "PRIMARY-BUTTON-TEXT": "Bestätigen",
+      "SECONDARY-BUTTON-TEXT": "Gib's auf."
+    },
+    "PENDING-CHANGES": {
+      "TITLE": "Nicht gespeicherte Inhalte",
+      "CONTENT": "Es gibt nicht registrierte Änderungen auf dem Formular.",
+      "PRIMARY-BUTTON-TEXT": "Beenden ohne Speichern",
+      "SECONDARY-BUTTON-TEXT": "Bearbeiten fortsetzen"
+    },
+    "DELETE": {
+      "TITLE": "Protokoll löschen",
+      "CONTENT": "Sind Sie sicher, dass Sie diesen Prozess löschen möchten?",
+      "PRIMARY-BUTTON-TEXT": "Löschen",
+      "SECONDARY-BUTTON-TEXT": "Gib's auf."
+    },
+    "MULTIPLE-DELETE": {
+      "TITLE": "Ausgewählte Datensätze löschen",
+      "CONTENT": "Sind Sie sicher, dass Sie die ausgewählten Datensätze löschen möchten? Diese Operation kann nicht abgerufen werden.",
+      "PRIMARY-BUTTON-TEXT": "Löschen",
+      "SECONDARY-BUTTON-TEXT": "Gib's auf."
+    },
+    "PAYMENT-GATEWAY-DELETE": {
+      "TITLE": "Zahlungssystem löschen",
+      "CONTENT": "Sind Sie sicher, dass Sie das ausgewählte Zahlungssystem löschen möchten?",
+      "PRIMARY-BUTTON-TEXT": "Löschen",
+      "SECONDARY-BUTTON-TEXT": "Gib's auf."
+    },
+    "MONEY-ORDER-DELETE": {
+      "TITLE": "Bankkonto löschen",
+      "CONTENT": "Sind Sie sicher, dass Sie das ausgewählte Bankkonto löschen möchten?",
+      "PRIMARY-BUTTON-TEXT": "Löschen",
+      "SECONDARY-BUTTON-TEXT": "Gib's auf."
+    },
+    "PAYMENT-PROXY-DELETE": {
+      "TITLE": "Karten-Ausblenden-Dienst löschen",
+      "CONTENT": "Sind Sie sicher, dass Sie den ausgewählten Kartenspeicherservice löschen möchten?",
+      "PRIMARY-BUTTON-TEXT": "Löschen",
+      "SECONDARY-BUTTON-TEXT": "Gib's auf."
+    },
+    "POS-ACCOUNT-DELETE": {
+      "TITLE": "Pos-Konto löschen",
+      "CONTENT": "Sind Sie sicher, dass Sie das ausgewählte pos-Konto löschen möchten?",
+      "PRIMARY-BUTTON-TEXT": "Löschen",
+      "SECONDARY-BUTTON-TEXT": "Gib's auf."
+    },
+    "INSTALLMENT-RATE-UPDATE": {
+      "TITLE": "Gehaltssätze aktualisieren",
+      "CONTENT": "Sind Sie sicher, dass Sie die Ratenraten aktualisieren möchten?",
+      "PRIMARY-BUTTON-TEXT": "Aktualisieren",
+      "SECONDARY-BUTTON-TEXT": "Gib's auf."
+    },
+    "RESET-LANGUAGE": {
+      "TITLE": "Spracheinstellungen zurücksetzen",
+      "CONTENT": "Nach dieser Prozedur werden Ihre Spracheinstellungen zu den Standardeinstellungen zurückkehren. Bewilligen Sie?",
+      "PRIMARY-BUTTON-TEXT": "Zurücksetzen",
+      "SECONDARY-BUTTON-TEXT": "Gib's auf."
+    },
+    "PAYMENT-GATEWAY-DUPLICATE": {
+      "TITLE": "Änderung des Pos-Anbieters",
+      "CONTENT": "Nach dieser Prozedur wird Ihr 'Active' \"arg0' in 'Pasif' geändert.",
+      "PRIMARY-BUTTON-TEXT": "Bestätigen",
+      "SECONDARY-BUTTON-TEXT": "Gib's auf."
+    }
+  },
+  "VALIDATION-ERROR": {
+    "ALPHA": "Bitte geben Sie nur alphanumerische Zeichen ein.",
+    "REQUIRED": "Dieser Bereich kann nicht leer gelassen werden.",
+    "EMAIL": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+    "INVALID-USER-PASSWORD": "Ihr Passwort muss mindestens einen Großbuchstaben und eine Nummer enthalten, nicht einen türkischen Charakter.",
+    "INVALID-MEMBER-PASSWORD": "Ihr Passwort muss mindestens einen Buchstaben und eine Nummer enthalten, nicht einen türkischen Charakter.",
+    "INVALID-PHONE-NUMBER": "Bitte geben Sie eine gültige Telefonnummer ein.",
+    "INVALID-COMPANY-IBAN": "Bitte geben Sie eine gültige IBAN-Nummer ein.",
+    "INVALID-FAX-NUMBER": "Bitte geben Sie eine gültige Faxnummer ein.",
+    "COMPARE": "Die eingegebenen Passwörter stimmen nicht überein.",
+    "URL": "Bitte geben Sie einen gültigen URL-Wert ein.",
+    "NUMERIC": "Dieser Bereich kann nur numerische Werte enthalten.",
+    "MIN-LENGTH": "Sie müssen in diesem Bereich mindestens {{ limit} ein Zeichen eingeben und es enthält keine Nummer im Buchstaben.",
+    "MAX-LENGTH": "Sie können das meiste Zeichen in diesem Bereich eingeben[{ limit} und müssen die Nummer im Buchstaben enthalten.",
+    "RANGE": "Sie können den Wert zwischen {{{min}}} und {{max}} eingeben.",
+    "MAX-TO-MIN-LIMIT": "Die Höchstgrenze kann nicht unter dem Mindestlimit liegen.",
+    "MIN-TO-MAX-LIMIT": "Die Mindestgrenze darf nicht größer sein als die Höchstgrenze.",
+    "MIN-NUMBER": "Dieser Wert sollte mindestens {{ Limit}} sein.",
+    "MAX-NUMBER": "Dieser Wert sollte Maximum{{ Limit}} sein.",
+    "MIN-DATE-GT-MAX-DATE": "Das Startdatum kann nicht größer sein als das Enddatum.",
+    "MAX-DATE-LT-MIN-DATE": "Die Frist kann nicht kleiner als das Startdatum sein."
+  },
+  "HTTP-CODES": {
+    "0": "Auf dem Server ist ein Fehler aufgetreten und die Anfrage ist fehlgeschlagen.",
+    "400": "Ungültige Anfrage.",
+    "401": "Es ist ein Gerichtsfehler.",
+    "403": "Der Mandant hat keine besondere Zuständigkeit für diese Operation.",
+    "404": "Keine Akte gefunden.",
+    "405": "Diese Art der Operation (GET, POST, PUTT oder DELETE) ist nicht erlaubt.",
+    "413": "Die Dateigröße, die Sie laden möchten, übersteigt die vom System erlaubten Grenzen",
+    "422": "Es gibt ein Problem mit dem gesendeten Objekt (in der Regel mit dem Gouvernement).",
+    "429": "Viele Anfragen wurden über einen Zeitraum gestellt.",
+    "500": "Auf dem Server ist ein Fehler aufgetreten und die Anfrage ist fehlgeschlagen.",
+    "503": "Der Server wird derzeit nicht bedient (geschlossen oder nicht erreichbar)."
+  },
+  "FORM-CREATOR": {
+    "FORM": {
+      "NAME": "Name des Formulars",
+      "DESCRIPTION": "Vordruck beschreibung"
+    },
+    "DEFAULT-VALUE": {
+      "OPTIONS": {
+        "NAME": "Option",
+        "VALUE": "Wert"
+      },
+      "LABEL": {
+        "TEXTBOX": "Titel des Textfelds",
+        "TEXTAREA": "Titel des Textbereichs",
+        "RADIOBOX": "Titel der Einzelauswahl",
+        "CHECKBOX": "Titel der Mehrfachauswahl",
+        "DROPDOWN": "Titel der Auswahlliste",
+        "FILE-UPLOAD": "Datei Titel laden",
+        "INFO": "Zwischen Zeile beachten"
+      },
+      "PLACEHOLDER": {
+        "TEXTBOX": "Wert eingeben",
+        "TEXTAREA": "Text eingeben"
+      }
+    },
+    "AVAILABLE-FIELDS": {
+      "TEXTBOX": "Textfeld",
+      "TEXTAREA": "Textbereich",
+      "RADIOBOX": "Einzelauswahl",
+      "CHECKBOX": "Mehrere Auswahlen",
+      "DROPDOWN": "Auswahl der Liste öffnen",
+      "FILE-UPLOAD": "Dateiinstallation",
+      "INFO": "Zwischen Zeile beachten"
+    },
+    "FIELD-REQUIRED-MESSAGE": "Es muss mindestens ein Formmitglied sein.",
+    "EMPTY-FIELD": "Verschieben Sie mindestens eines der Formulare rechts in diesen Bereich.",
+    "LABEL": {
+      "FORM-FIELDS": "Formularfelder",
+      "ADD-FIELD.DESCRIPTION": "Ziehen Sie die folgenden Bereiche, um eine Form zu bilden.",
+      "FIELD-SETTINGS": "Feldeigenschaften",
+      "NO-FIELD.SELECTED": "Sie müssen das Formularelement auswählen, um die Eigenschaften anzuzeigen.",
+      "PLACEHOLDER": "Informationstext",
+      "LABEL": "Bezeichnung",
+      "REQUIRED": "Sollte dieser Bereich obligatorisch sein?",
+      "FIELD-TYPE": "Flächentyp",
+      "GENERAL-SETTINGS": "Allgemeine Einstellungen",
+      "ATTRIBUTES": "Breitenwert",
+      "SORT-ORDER": "Reihe Nr.",
+      "MIN-LENGTH": "Mindestanzahl der Zeichen",
+      "MAX-LENGTH": "Maximale Zeichenzahl",
+      "INFO": "Warenbezeichnung",
+      "FILE-BUTTON-TEXT": "Datei auswählen"
+    },
+    "OPTIONS": {
+      "TITLE": "Einstellungen",
+      "NOT-FOUND": "Option nicht gefunden.",
+      "LABEL": "Bezeichnung",
+      "VALUE": "Wert",
+      "ADD-NEW-OPTION": "Option hinzufügen",
+      "ACTIVE-OPTION": "Aktive Option",
+      "PASSIVE-OPTION": "Passive Option",
+      "DELETE-OPTION": "Option löschen",
+      "ATTRIBUTES": {
+        "SMALL": "Zu kurz",
+        "XSMALL": "Kurz",
+        "LARGE": "Mittel",
+        "XLARGE": "Lang",
+        "XXLARGE": "Zu lange"
+      },
+      "REQUIRED": {
+        "YES": "Genau.",
+        "NO": "Nein."
+      }
+    },
+    "MESSAGE": {
+      "MAXIMUM-FIELD": "Sie können maximal 15 Bereiche hinzufügen. Für mehr, müssen Sie Google Drive Integration zu tun.",
+      "MAXIMUM-OPTION": "Sie können maximal 10 Optionen hinzufügen. Für mehr, müssen Sie Google Drive Integration zu tun.",
+      "MIN-LENGTH-WARNING": "Die Mindestanzahl der Zeichen kann nicht größer sein als die maximale Anzahl der Zeichen.",
+      "MAXIMUM-USAGE-LIMIT": "Sie können den maximalen (x) Zeitraum hinzufügen.",
+      "MAXIMUM-USAGE-LIMIT-FOR-CUSTOMIZATION-FORM": "Sie können maximal 10 Leerzeichen hinzufügen."
+    }
+  },
+  "CONTENT_AI": {
+    "VALIDATION": "Bitte füllen Sie den Bereich aus!",
+    "TRY_AGAIN": "Bitte versuchen Sie es noch mal!",
+    "INFORMATION": {
+      "INPUT": {
+        "SUBJECT": "Bitte schreiben Sie das von Ihnen angeforderte Thema vom AI-Fahrzeug auf.",
+        "CHARACTER": {
+          "SALES_EXPERT": "Das Produkt oder die Dienstleistungen sind ein Charakter, der sich auf die Steigerung des Umsatzvolumens konzentriert, indem es Kunden effektiv einführt, Kundenbedürfnisse versteht und Lösungen bereitstellt und Kundenbeziehungen stärkt.",
+          "SEO_EXPERT": "Es ist ein Charakter, der Strategien und Techniken verwendet, um Websites höher auf Suchmaschinen zu erhalten, konzentriert sich auf die Herstellung organischer Verkehr sichtbarer für Ihre Website.",
+          "CREATOR": "Es ist ein Charakter, der interessante und wertvolle Inhalte erzeugt und versucht, das Publikum zu beeinflussen.",
+          "FUN": "Er ist ein lustiger, freundlicher Charakter, der mit den Benutzern mit einem lustigen und fröhlichen Ton kommunizieren kann.",
+          "WRITER": "Es ist ein Charakter, der Emotionen in einer beeindruckenden Sprache zum Ausdruck bringt und Kreativität nutzt."
+        },
+        "CHARACTER_COMMENT": "Du kannst den Charakter, den du wählst, lenken."
+      },
+      "OUTPUT": {
+        "TOKEN_LIMIT": "1 Wortdurchschnitt zwischen 3 und 5 Token. Es variiert je nach Inhalt. (Used/Limit)",
+        "TOKEN_DURATION": "Sie wird bis zu dem festgesetzten Zeitpunkt verwendet.",
+        "TOKEN_UNLIMITED": "Es ist auf unbestimmte Zeit."
+      }
+    },
+    "MODAL_TITLE": {
+      "BLOG_TITLE": "Blog-Titel erstellen",
+      "BLOG_CONTENT": "Blog-Inhalte erstellen",
+      "PAGE_TITLE": "Seitentitel erstellen",
+      "PAGE_CONTENT": "Seiteninhalt erstellen",
+      "PRODUCT_CONTENT": "Produktinhalt erstellen",
+      "CATEGORY_HEADER_CONTENT": "Kategorieinhalt erstellen",
+      "CATEGORY_FOOTER_CONTENT": "Kategorieinhalt erstellen",
+      "BRAND_HEADER_CONTENT": "Markeninhalt erstellen",
+      "BRAND_FOOTER_CONTENT": "Markeninhalt erstellen"
+    },
+    "MODAL_INPUT_PLACEHOLDER": {
+      "BLOG": {
+        "SUBJECT": "Beispiel: Filterkaffee-Brauverfahren",
+        "CHARACTER": "Beispiel: Sprechen Sie über Anfänger"
+      },
+      "PAGE": {
+        "SUBJECT": "Beispiel: Filterkaffee-Brauverfahren",
+        "CHARACTER": "Beispiel: Sprechen Sie über Anfänger"
+      },
+      "PRODUCT": {
+        "SUBJECT": "Beispiel: Baumwoll-überzogenes T-Shirt",
+        "CHARACTER": "Beispiel: Sprechen Sie über einfachen Schnitt"
+      },
+      "CATEGORY": {
+        "SUBJECT": "Beispiel: Die Vorteile von Baumwollbekleidung",
+        "CHARACTER": "Beispiel: Sprechen Sie darüber, es jede Saison tragen zu können"
+      },
+      "BRAND": {
+        "SUBJECT": "Beispiel: XYZ Bekleidungsmarke",
+        "CHARACTER": "Beispiel: Sprechen Sie über hohe Qualität und Kundenzufriedenheit"
+      }
+    },
+    "OTHER": {
+      "SUBJECT": "Gegenstand",
+      "SALES_EXPERT": "Vertriebsexperte",
+      "SEO_EXPERT": "Seo-Spezialist",
+      "CREATOR": "Hersteller des Inhalts",
+      "FUN": "Es macht Spaß.",
+      "WRITER": "Verfasser",
+      "CHARACTER": "Zeichen",
+      "CHARACTER_COMMENT": "Direkter Charakter",
+      "CHARACTER_COMMENT_DESCRIPTION": "Geeignet",
+      "PARAGRAPH": "Absatz",
+      "WORD": "Wort",
+      "CHARACTER_CONTENT": "Inhalt",
+      "GENERATE": "Erstellen",
+      "ADD": "Hinzufügen",
+      "CHANGE": "Durch Inhalt ersetzen",
+      "COPY_TO_CLIPBOARD": "Nach Pano kopieren",
+      "USAGE_TOKEN": "Verwendet",
+      "BUY_TOKEN": "Kaufen",
+      "MODAL_HIDE_CONFIRM": "Sie haben Ihren Token benutzt, um einen Inhalt zu erstellen. Sind Sie sicher, dass Sie ihn herunterfahren möchten, ohne ihn zu benutzen?",
+      "GENERATE_TIMEOUT": "Sie hatten eine 30-Sekunden-Verjährungsfrist bei der Produktion von Inhalten. Bitte versuchen Sie es noch einmal.",
+      "PLEASE_SELECTED_FOR_TITLE": "Bitte treffen Sie Ihre Wahl..."
+    }
+  }
+}

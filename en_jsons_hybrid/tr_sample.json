@@ -1,0 +1,746 @@
+{
+  "GENERAL": {
+    "DOCUMENT-TITLE": {
+      "LABEL": "Management Panel",
+      "PAGES": {
+        "LOGIN": "Login",
+        "FORGOT-PASS": "I forgot my password.",
+        "SEND-SMS": "Send Sms",
+        "SMS-VERIFICATION": "Sms Verification",
+        "REMOTELOGIN": "Login"
+      }
+    },
+    "CONTRACT-MODAL": {
+      "TITLE": "Service and Use Conditions",
+      "BUTTON": "I approve."
+    },
+    "INTRO-DEFAULT-OPTIONS": {
+      "TITLE": "Start login",
+      "NEXT-LABEL": "Forward <i class='fal fa-chevron-right ml-2'></i>",
+      "PREV-LABEL": "<i class='fal fa-chevron-left mr-2'></i> Back",
+      "SKIP-LABEL": "<i class='fal fa-times'></i>",
+      "DONE-LABEL": "Finish"
+    },
+    "REDIRECT-TO-OLD-VIEW": {
+      "DESCRIPTION": "You can only access this page now in the old view.",
+      "BUTTON-TEXT": "Open in Old View"
+    },
+    "VIEWING-NOT-ALLOWED": {
+      "TITLE": "You're not allowed to view this area."
+    },
+    "ALL": "All",
+    "LOGOUT": "Logout",
+    "MY-ACCOUNT": "User Information",
+    "CHOOSE": "Select",
+    "CLEAR": "Clear",
+    "COPY": "Copy",
+    "COPIED": "Copied",
+    "FILTERS": "Filters",
+    "FILTER": "Filter",
+    "SEARCH": "Search",
+    "SEARCH-ADMIN-PAGE": "Example: Additional Settings",
+    "YES": "Yeah.",
+    "NO": "No.",
+    "AVAILABLE": "There is.",
+    "NOT_AVAILABLE": "No.",
+    "OPENED": "It's open.",
+    "CLOSED": "Off",
+    "ACTIVE": "Active",
+    "PASSIVE": "Passive",
+    "SHOW": "Show",
+    "HIDE": "Hide",
+    "FORWARD": "Forward",
+    "BEGIN": "Start",
+    "WAITING-FOR-APPROVAL": "Waiting for Approval",
+    "SUSPENDED": "Suspended",
+    "PREVIEW-SITE": "View Site",
+    "PREVIEW-ON-WEB": "View on Site",
+    "QUICK-EDIT": "Quick Edit",
+    "NG-SELECT-NOT-FOUND-TEXT": "No record found.",
+    "NG-SELECT-ADD-TAG-TEXT": "Create New:",
+    "NG-SELECT-LOADING-TEXT": "Loading",
+    "NG-SELECT-TYPE-TO-SEARCH-TEXT": "Search by Write",
+    "NG-SELECT-PLACEHOLDER-TEXT": "Select",
+    "HELP-BAR": {
+      "TITLE": "Help Page",
+      "BUTTON.LABEL": "Help",
+      "REDIRECT-BUTTON.LABEL": "Help Page"
+    },
+    "SELECT-FILE": "Select File",
+    "IMAGE": "Image",
+    "ADD-IMAGE": "Add Image",
+    "CHANGE-IMAGE": "Edit Image",
+    "IMAGE-UPLOAD-INFO": "Or drag it out.",
+    "DRAG-IMAGE": "Leave it here.",
+    "SHOWCASE-IMAGE": "& View",
+    "EDIT-SEO-DETAIL": "Edit",
+    "COPY-TO-CLIPBOARD": "Copied",
+    "INVALID-IDENTITY-NUMBER": "Invalid TC ID number",
+    "BUTTON": {
+      "SUBMIT": "Confirm",
+      "SAVE": "Save",
+      "SAVE-AND-EXIT": "Save and Quit",
+      "SAVE-AND-ADD-NEW": "Save and Add New",
+      "CANCEL": "Give it up.",
+      "CONFIRM": "Confirm",
+      "UPDATE": "Update",
+      "CLOSE": "Close",
+      "DELETE": "Delete",
+      "EDIT": "Edit",
+      "RESET": "Reset Form",
+      "MORE": "More",
+      "ADD": "Add",
+      "OK": "Okay.",
+      "GO-BACK": "Return"
+    },
+    "EXPORT": "Export to Excele",
+    "SEO": {
+      "TITLE": "Seo Information"
+    },
+    "STATUS": {
+      "LABEL": "Status"
+    },
+    "ID": {
+      "LABEL": "ID"
+    },
+    "STATUS-CARD-TITLE": "Status",
+    "SUCCESS-MESSAGE": {
+      "POST": "Saved",
+      "PUT": "Editing saved.",
+      "DELETE": "Deleted",
+      "SEND-EMAIL": "Sent",
+      "IN-QUEUE": "Your operation has been successfully queued. You can follow your operation from Settings > Operation Tail page.",
+      "CACHE-CLEAR": "Your cache cleanup has been completed.",
+      "QUEUE": "Your transaction has been successfully queued.",
+      "REPORT": "Your report creation has been successfully queued. You can follow your transaction from Settings > Operation Tail page.",
+      "COMPLETED": "Your procedure is complete."
+    },
+    "FAILED-MESSAGE": {
+      "SEND-EMAIL": "Your e-mail request did not take place because the member's email approval was closed."
+    },
+    "LIVE-SUPPORT": "Support System",
+    "SIDE-BAR": {
+      "TOGGLE-MENU-LABEL": {
+        "SHOW": "Stabilize Menu",
+        "HIDE": "Hide Menu"
+      },
+      "DASHBOARD.LABEL": "Homepage",
+      "CATALOG-MODULE.LABEL": "Catalog",
+      "CONTENT-MODULE.LABEL": "Contents",
+      "MAIL-MODULE.LABEL": "Mail Management",
+      "BLOG-MODULE.LABEL": "Blogs",
+      "MEMBER-MODULE.LABEL": "Members and dealers",
+      "USER-MODULE.LABEL": "Users",
+      "SETTING-MODULE.LABEL": "Settings",
+      "CAMPAIGN-MODULE.LABEL": "Campaigns",
+      "SHIPMENT-MODULE.LABEL": "Cargo Settings",
+      "STATISTIC-MODULE.LABEL": "Statistics",
+      "STATISTIC-ORDER.LABEL": "Order Statistics",
+      "STATISTIC-OVERVIEW.LABEL": "Comprehensive Statistics",
+      "STATISTIC-VISIT.LABEL": "Visiting Statistics",
+      "STATISTIC-MEMBER.LABEL": "Member Statistics",
+      "STATISTIC-PRODUCT.LABEL": "Product Statistics",
+      "REPORT.LABEL": "Reports",
+      "INTEGRATION-MODULE.LABEL": "Integrations",
+      "APP-STORE-MODULE.LABEL": "Applications",
+      "PACKAGE-INFO-MODULE.LABEL": "My account",
+      "GENERAL-SETTING-MODULE.LABEL": "General Settings",
+      "DESIGN-SETTING-MODULE.LABEL": "Design Settings",
+      "PRODUCTS.LABEL": "Products",
+      "SELECTION-GROUPS.LABEL": "Additional Properties",
+      "OPTION-GROUPS.LABEL": "Variant System",
+      "SPEC-GROUPS.LABEL": "Product Properties",
+      "SPEC-NAMES.LABEL": "Property Names",
+      "EXTRA-INFOS.LABEL": "Additional Information",
+      "BRANDS.LABEL": "Brands",
+      "PAGES.LABEL": "Pages",
+      "MAILLISTS.LABEL": "Mail List",
+      "MAILLIST-IMPORT.LABEL": "Mail List Transfer",
+      "BLOGS.LABEL": "Blogs",
+      "BLOG-TAGS.LABEL": "Blog Tags",
+      "BLOG-CATEGORIES.LABEL": "Blog Categories",
+      "BLOG-COMMENTS.LABEL": "Blog Comment Settings",
+      "MAILLIST-GROUPS.LABEL": "Mail List Groups",
+      "MEMBERS.LABEL": "Members",
+      "STMP-MAIL-SETTINGS.LABEL": "SMTP-Mail Settings",
+      "SMTP-PREF.LABEL": "SMTP Settings",
+      "MAIL-ACCOUNT.LABEL": "Mail Accounts",
+      "SMS.LABEL": "SMS Settings",
+      "SMS-MODULE.LABEL": "SMS Settings",
+      "NET-GSM-SETTINGS.LABEL": "Net GSM Settings",
+      "SMS-SETTINGS.LABEL": "SMS Options",
+      "NET-GSM-LOGS.LABEL": "Net GSM Reports",
+      "MEMBER-GROUPS.LABEL": "Member/Bay Groups",
+      "USERS.LABEL": "Users",
+      "BLACKLISTS.LABEL": "Blocked IPs",
+      "PROCESS-LOGS.LABEL": "Operation Records",
+      "POLLS.LABEL": "Polls",
+      "CATEGORIES.LABEL": "Categories",
+      "SHIPMENT-PREF.LABEL": "Delivery Additional Settings",
+      "ABANDONEDS.LABEL": "Basket Reminder",
+      "ABANDONED_CARTS.LABEL": "Abandoned Baskets",
+      "ABANDONED_ORDERS.LABEL": "Abandoned Orders",
+      "FRAUD-RISKS.LABEL": "Risk Criters",
+      "SITE-CONTENTS.LABEL": "Content Settings",
+      "DISTRIBUTORS.LABEL": "Personal Supplies",
+      "PRICE-GAP.LABEL": "Price Ranges",
+      "LABELS.LABEL": "Personal Tags",
+      "FILTER-MANAGEMENT.LABEL": "Filters",
+      "PAYMENT-SETTINGS.LABEL": "Payment Settings",
+      "CURRENCIES.LABEL": "Currencies currencies",
+      "FORMS.LABEL": "Forms",
+      "PRODUCT-CUSTOMIZATION-GROUPS.LABEL": "Product Privatisation",
+      "DESIGN-SETTINGS.LABEL": "Design Settings",
+      "COMMON-PREF.LABEL": "Descriptions",
+      "CUSTOMIZATION-GROUPS.LABEL": "Member Registering Form",
+      "PAYMENTS.LABEL": "Payments",
+      "ORDER-MODULE.LABEL": "Orders",
+      "CONTRACTS.LABEL": "Subscriptions",
+      "SEO-TAGS.LABEL": "SEO+ Tags",
+      "ORDERS.LABEL": "Orders",
+      "POINT-LOGS.LABEL": "Score History",
+      "POINT-PREF.LABEL": "Score System",
+      "SHIPPING-COMPANIES.LABEL": "Cargo Corporations",
+      "COUNTRIES.LABEL": "Countries",
+      "LOCATIONS.LABEL": "Cities",
+      "TOWN-GROUPS.LABEL": "Districts / Districts",
+      "REGIONS.LABEL": "Delivery Areas",
+      "FILTER-MENU-SETTINGS.LABEL": "Filter Settings",
+      "ORDER-REFUND-REQUESTS.LABEL": "Cancel and Return",
+      "LANGUAGES.LABEL": "Language Settings",
+      "BULK-EDIT.LABEL": "Multiple Product Update",
+      "INVOICE-SETTINGS.LABEL": "Bill Settings",
+      "INVOICE-DESIGN.LABEL": "Bill Design",
+      "INVOICE-EXPORT.LABEL": "Bill Output",
+      "DRAFT-ORDER.LABEL": "Prescription Order",
+      "USER-ROLES.LABEL": "User Roles",
+      "TICKETS.LABEL": "Support Requests",
+      "MAIL-CONTENTS.LABEL": "Mail Templates",
+      "CUSTOM-MAILS.LABEL": "Mail Management",
+      "CUSTOM-MAIL.LABEL": "Mail Management",
+      "SUBSCRIPTIONS.LABEL": "Absorption Management",
+      "COUPONS.LABEL": "Gift Checks",
+      "POS-CAMPAIGNS.LABEL": "Pos Campaigns",
+      "PROMOTIONS.LABEL": "Promotions",
+      "QUICK-CARTS.LABEL": "Buy Fast",
+      "PACKAGES.LABEL": "Package Generator",
+      "PURCHASE-LIMITATIONS.LABEL": "Purchasing Limit",
+      "INSTAGRAM-SHOPS.LABEL": "Instagram Feed & Shop",
+      "THEMES.LABEL": "Themes",
+      "THEMES-EXTRA-PREF.LABEL": "Theme Site Settings",
+      "SLIDERS.LABEL": "Sliders",
+      "MENU-ITEMS.LABEL": "Menu Management",
+      "BANNER-MANAGEMENT.LABEL": "Banners",
+      "DROPDOWN-PREF.LABEL": "Down Open Menu",
+      "BLOCKS.LABEL": "Blocks",
+      "CHECKOUT-DESIGN-PREF.LABEL": "Payment Page Design",
+      "EXTRA-PREF.LABEL": "Additional Settings",
+      "SEO-PREF.LABEL": "SEO Settings",
+      "CUSTOM-SCRIPTS.LABEL": "Custom Script Codes",
+      "FILE-MANAGER.LABEL": "File Management",
+      "OPTIMIZATIONS.LABEL": "Optimizations",
+      "PARTNERSHIPS.LABEL": "Co-operation",
+      "OUTPUTS.LABEL": "Idea Output",
+      "CLIENT.LABEL": "API",
+      "CLIENT-WEBHOOKS.LABEL": "Webhook Management",
+      "CLIENT-PERMISSION.LABEL": "Permission Management",
+      "MARKETPLACE-INTEGRATIONS.LABEL": "Markets",
+      "INTEGRATIONS.LABEL": "Integrations",
+      "APP-STORE.LABEL": "Application Store",
+      "JIVOCHAT.LABEL": "Live Support",
+      "GENERAL-SETTINGS.LABEL": "General Settings",
+      "MIDBLOCKS.LABEL": "Window Blocks",
+      "TABBED-MIDBLOCKS.LABEL": "Tabbed Vitrin Blocks",
+      "QUEUE-PROCESS.LABEL": "Operation Tail",
+      "PRODUCT-SHOWCASE.LABEL": "Product View Order",
+      "PRODUCT-BUTTON.LABEL": "Product Buttons",
+      "PRODUCT-COMMENT.LABEL": "Product Comments",
+      "PRODUCT-FEED.LABEL": "Product Proposals",
+      "FAVOURITED-PRODUCT.LABEL": "Favorite Products",
+      "MULTI-PRODUCT-EDIT.LABEL": "Product-based Update",
+      "STOCK-WARNING.LABEL": "Product News List",
+      "QUESTION.LABEL": "Product Questions",
+      "POPUP.LABEL": "Popup & Bar Management",
+      "ACTIVE-CARTS.LABEL": "Active Baspets",
+      "SHOPPING-EXPERIENCE.LABEL": "Shopping Experiences",
+      "COLLECTION.LABEL": "Collection",
+      "GENERAL-SETTINGS-DESCRIPTIONS": {
+        "EXTRA-PREF": "Manage your site base settings.",
+        "SEO-PREF": "Adjust your search engine settings.",
+        "CUSTOM-SCRIPTS": "Edit your tracking codes.",
+        "PAYMENT-SETTINGS": "Choose your payment methods and manage your payment settings.",
+        "LANGUAGES": "Edit your content on your site.",
+        "USER-MODULE": "Manage your management panel users and user authorizations.",
+        "COMMON-PREF": "Arrange your corporate information for your sales absorption.",
+        "FILE-MANAGER": "Manage your private files and folders.",
+        "CUSTOMIZATION-GROUPS": "Manage your membership registration form.",
+        "OPTIMIZATIONS": "Clear your front memory and optimize your catalog.",
+        "CURRENCIES": "Update and manage your exchange rates.",
+        "LINKED-ACCOUNTS": "Update and manage your linked accounts.",
+        "SECURITY-SETTINGS": "Update and manage your security settings."
+      },
+      "DESIGN-SETTINGS-DESCRIPTIONS": {
+        "THEMES": "List and direct the theme.",
+        "THEMES-SITE-PREF": "Theme Site Settings",
+        "SLIDERS": "Set up the Sliders.",
+        "MENU-ITEMS": "Edit menus.",
+        "BANNERS": "Run the Banners.",
+        "PROMOTION-BARS": "Promotion Bar",
+        "DROPDOWN-PREFS": "Manage down-open menus.",
+        "BLOCKS": "Run the right and left blocks.",
+        "CHECKOUT-DESIGN-PREF": "Manage payment page design.",
+        "MIDBLOCKS": "Run the window blocks.",
+        "TABBED-MIDBLOCKS": "Run the window blocks.",
+        "POPUP": "Manage popup and bar designs."
+      },
+      "LINKED-ACCOUNTS": {
+        "LABEL": "Marketing and Analysis Tools"
+      },
+      "SECURITY-SETTINGS": {
+        "LABEL": "Security Settings"
+      },
+      "PROMOTION.LABEL": "Promotions",
+      "PACKAGE-INFO.LABEL": "My account"
+    },
+    "FORM-BUTTONS": {
+      "DELETE-MODAL-CONTENT": "Are you sure you want to delete this process?",
+      "RESET-MODAL-TITLE": "Reset Form",
+      "RESET-MODAL-CONTENT": "There are unregistered changes on the form. Do you want it reset?"
+    },
+    "DATATABLE": {
+      "MESSAGES": {
+        "EMPTY": "<i class='fal fa-page-break'></i><div>No record found.</div>",
+        "CHOOSE-BRAND": "<i class='fal fa-crosshairs'></i><div>Please select a brand.</div>",
+        "CHOOSE-CATEGORY": "<i class='fal fa-crosshairs'></i><div>Please select a category.</div>",
+        "CHOOSE-COLLECTION": "<i class='fal fa-crosshairs'></i><div>Please select a collection.</div>",
+        "TOTAL": "Record",
+        "SELECTED": "Selected"
+      },
+      "FILTER-FORM": {
+        "FILTER-ALL": "All",
+        "SAVE-SEARCH": {
+          "TITLE": "Save",
+          "NAME": "Log Name"
+        },
+        "NEW-SEARCH": "New Search",
+        "DUPLICATE-NAME": "You have a filter registered in these names and criteria. Please enter another name and search criteria."
+      },
+      "ACTIONS": {
+        "NAME": "Operations",
+        "DELETE": {
+          "NAME": "Delete",
+          "MESSAGE": "Are you sure you want to delete the selected records? This operation cannot be retrieved."
+        },
+        "MOVE": {
+          "NAME": "Move",
+          "MESSAGE": "Are you sure you want to move the selected records?"
+        },
+        "COPY": {
+          "NAME": "Copy",
+          "MESSAGE": "Are you sure you want to copy the selected records?"
+        },
+        "UPDATE": {
+          "NAME": "Update",
+          "MESSAGE": "Are you sure you want to update the selected records?",
+          "SELECT-ALL": "Process for the entire period.",
+          "DESELECT-ALL": "Take back the election."
+        },
+        "CHANGE-STATUS-TO-ACTIVE": {
+          "NAME": "Enable",
+          "MESSAGE": "Are you sure you want to change the status of the selected records to 'Active'?"
+        },
+        "CHANGE-STATUS-TO-PASSIVE": {
+          "NAME": "Make it Passive",
+          "MESSAGE": "Are you sure you want to change the status of the selected records to 'Pasif'?"
+        }
+      }
+    },
+    "NOTIFICATIONS": {
+      "TITLE": "Notifications",
+      "ORDERS": "New Orders.",
+      "NO-NOTIFICATIONS": "No new notifications."
+    },
+    "QUESTION": {
+      "LABEL": "Product Questions"
+    }
+  },
+  "COMPONENT": {
+    "DATAGRID": {
+      "SHOW": "Show",
+      "HIDE": "Hide",
+      "RECORD-COUNT": "Number of Records",
+      "FROZEN-ON": "Unlock",
+      "FROZEN-OFF": "Lock",
+      "ITEM-SELECTED": "The registration has been selected."
+    },
+    "SELECT-LIST": {
+      "SEARCH": {
+        "PLACEHOLDER": "Look for a category."
+      },
+      "NOT-FOUND": "No results were found.",
+      "BACK": "Back",
+      "SELECTED-LIST": "Selected Records",
+      "SUBMIT": "Okay.",
+      "SELECTED": "Selected",
+      "SELECT": "Select",
+      "DESELECT": "Remove"
+    },
+    "TEXT-EDITOR": {
+      "TAB": {
+        "SOURCE": "Source",
+        "FILE": "File",
+        "DIRECTORY": "Folder",
+        "FILES": "Files"
+      },
+      "FORM": {
+        "SOURCE": "Image Source",
+        "ALT": "Title (Alt Tag)",
+        "WIDTH": "Width",
+        "HEIGHT": "Height",
+        "LINK": "Connection",
+        "LINK-OPEN-TYPE": "Open in new tab",
+        "ADD": "Add"
+      },
+      "TITLE": "File Management",
+      "TYPE-DEFAULT-TEXT": "Main Folder",
+      "NO-RECORDS": "No record found.",
+      "FIELDS": {
+        "NEW-FOLDER": {
+          "LABEL": "New Folder"
+        },
+        "UPLOAD": {
+          "LABEL": "Load File"
+        },
+        "COMPRESS": {
+          "LABEL": "Export"
+        },
+        "REMOVE-SELECTED": {
+          "LABEL": "Delete Selected"
+        },
+        "REFRESH": {
+          "LABEL": "Refresh"
+        },
+        "OPEN-DIRECTORY": {
+          "LABEL": "Open Folder"
+        },
+        "COMPRESS-DIRECTORY": {
+          "LABEL": "Export",
+          "TOOLTIP": "Export the folder you are in."
+        },
+        "DELETE-DIRECTORY": {
+          "LABEL": "Delete Folder"
+        },
+        "VIEW-FILE": {
+          "LABEL": "View"
+        },
+        "DOWNLOAD-FILE": {
+          "LABEL": "Download File"
+        },
+        "DELETE-FILE": {
+          "LABEL": "Delete File"
+        },
+        "CURRENT-SIZE": {
+          "LABEL": "Size"
+        },
+        "MAX-SIZE": {
+          "LABEL": "Maximum Size"
+        },
+        "ITEM": {
+          "LABEL": "Item"
+        }
+      },
+      "MODALS": {
+        "CREATE-DIRECTORY": {
+          "TITLE": "New Folder",
+          "INPUT-LABEL": "Folder Name"
+        },
+        "FILE-UPLOAD": {
+          "TITLE": "Load File",
+          "INPUT-LABEL": "Select File"
+        }
+      },
+      "ALERT": {
+        "DIRECTORY-EMPTY": "Your knee is empty.",
+        "FILE-NOT-SELECTED": "File not selected.",
+        "MAX-SIZE": "Infuses maximum size (arg0) with the requested files.",
+        "MAX-FILE-SIZE": "Infused maximum size (arg1) with the requested file (arg0).",
+        "UPLOAD-MAX-FILE-LIMIT": "You can upload 10 files max at a time.",
+        "FILE-EXTENSION-NOT-VALID": "The extension (arg0) you are trying to load is not supported by the system."
+      }
+    }
+  },
+  "MODAL": {
+    "RESET": {
+      "TITLE": "Reset Form",
+      "CONTENT": "There are unregistered changes on the form. Do you want it reset?",
+      "PRIMARY-BUTTON-TEXT": "Reset Form",
+      "SECONDARY-BUTTON-TEXT": "Continue Editing"
+    },
+    "COPY-PRODUCT": {
+      "TITLE": "Copy Product",
+      "CONTENT": "There are unsaved changes on the form. Do you want to copy it?",
+      "PRIMARY-BUTTON-TEXT": "Copy Product",
+      "SECONDARY-BUTTON-TEXT": "Continue Editing"
+    },
+    "REMOVE-FILTER": {
+      "TITLE": "Delete Registered Filter",
+      "CONTENT": "Are you sure you want to delete the registered filter?",
+      "PRIMARY-BUTTON-TEXT": "Confirm",
+      "SECONDARY-BUTTON-TEXT": "Give it up."
+    },
+    "PENDING-CHANGES": {
+      "TITLE": "Unsaved Contents",
+      "CONTENT": "There are unregistered changes on the form.",
+      "PRIMARY-BUTTON-TEXT": "Quit Without Save",
+      "SECONDARY-BUTTON-TEXT": "Continue Editing"
+    },
+    "DELETE": {
+      "TITLE": "Delete Log",
+      "CONTENT": "Are you sure you want to delete this process?",
+      "PRIMARY-BUTTON-TEXT": "Delete",
+      "SECONDARY-BUTTON-TEXT": "Give it up."
+    },
+    "MULTIPLE-DELETE": {
+      "TITLE": "Delete Selected Records",
+      "CONTENT": "Are you sure you want to delete the selected records? This operation cannot be retrieved.",
+      "PRIMARY-BUTTON-TEXT": "Delete",
+      "SECONDARY-BUTTON-TEXT": "Give it up."
+    },
+    "PAYMENT-GATEWAY-DELETE": {
+      "TITLE": "Delete Payment System",
+      "CONTENT": "Are you sure you want to delete the selected payment system?",
+      "PRIMARY-BUTTON-TEXT": "Delete",
+      "SECONDARY-BUTTON-TEXT": "Give it up."
+    },
+    "MONEY-ORDER-DELETE": {
+      "TITLE": "Delete Bank Account",
+      "CONTENT": "Are you sure you want to delete the selected bank account?",
+      "PRIMARY-BUTTON-TEXT": "Delete",
+      "SECONDARY-BUTTON-TEXT": "Give it up."
+    },
+    "PAYMENT-PROXY-DELETE": {
+      "TITLE": "Delete Card Hide Service",
+      "CONTENT": "Are you sure you want to delete the selected card storage service?",
+      "PRIMARY-BUTTON-TEXT": "Delete",
+      "SECONDARY-BUTTON-TEXT": "Give it up."
+    },
+    "POS-ACCOUNT-DELETE": {
+      "TITLE": "Delete Pos Account",
+      "CONTENT": "Are you sure you want to delete the selected pos account?",
+      "PRIMARY-BUTTON-TEXT": "Delete",
+      "SECONDARY-BUTTON-TEXT": "Give it up."
+    },
+    "INSTALLMENT-RATE-UPDATE": {
+      "TITLE": "Update Payrate Rates",
+      "CONTENT": "Are you sure you want to update the installment rates?",
+      "PRIMARY-BUTTON-TEXT": "Update",
+      "SECONDARY-BUTTON-TEXT": "Give it up."
+    },
+    "RESET-LANGUAGE": {
+      "TITLE": "Reset Language Settings",
+      "CONTENT": "After this procedure, your language settings will return to the default settings. Do you approve?",
+      "PRIMARY-BUTTON-TEXT": "Reset",
+      "SECONDARY-BUTTON-TEXT": "Give it up."
+    },
+    "PAYMENT-GATEWAY-DUPLICATE": {
+      "TITLE": "Pos Provider Change",
+      "CONTENT": "After this procedure, your 'Active' \"arg0' will be changed to 'Pasif'. Do you approve?",
+      "PRIMARY-BUTTON-TEXT": "Confirm",
+      "SECONDARY-BUTTON-TEXT": "Give it up."
+    }
+  },
+  "VALIDATION-ERROR": {
+    "ALPHA": "Please enter only alphanumeric characters.",
+    "REQUIRED": "This area cannot be left empty.",
+    "EMAIL": "Please enter a valid email address.",
+    "INVALID-USER-PASSWORD": "Your password must contain at least one capital letter and number, not a Turkish character.",
+    "INVALID-MEMBER-PASSWORD": "Your password must contain at least one letter and number, not a Turkish character.",
+    "INVALID-PHONE-NUMBER": "Please enter a valid phone number.",
+    "INVALID-COMPANY-IBAN": "Please enter a valid IBAN number.",
+    "INVALID-FAX-NUMBER": "Please enter a valid fax number.",
+    "COMPARE": "The passwords you entered don't match.",
+    "URL": "Please enter a valid URL value.",
+    "NUMERIC": "This area can only contain numerical values.",
+    "MIN-LENGTH": "You have to enter a character in this area at least {{ limit} and it does not include a number in the letter.",
+    "MAX-LENGTH": "You can enter the most character in this area[{ limit} and must include the number in the letter.",
+    "RANGE": "You can enter the value between {{{min}}} and {{max}}}.",
+    "MAX-TO-MIN-LIMIT": "The maximum limit can't be less than the minimum limit.",
+    "MIN-TO-MAX-LIMIT": "The minimum limit cannot be greater than the maximum limit.",
+    "MIN-NUMBER": "This value should be minimum {{ limit}}.",
+    "MAX-NUMBER": "This value should be Maximum{{ limit}}.",
+    "MIN-DATE-GT-MAX-DATE": "The start date can't be bigger than the end date.",
+    "MAX-DATE-LT-MIN-DATE": "The deadline can't be smaller than the start date."
+  },
+  "HTTP-CODES": {
+    "0": "An error occurred on the server and the request failed.",
+    "400": "Invalid request.",
+    "401": "It's a jurisdictional error.",
+    "403": "The client doesn't have special jurisdiction over this operation.",
+    "404": "No record found.",
+    "405": "This type of operation (GET, POST, PUTT or DELETE) is not allowed.",
+    "413": "The file size you want to load exceeds the limits allowed by the system",
+    "422": "There is a problem with the sent object (usually with the governorship).",
+    "429": "A lot of requests were made over a period of time.",
+    "500": "An error occurred on the server and the request failed.",
+    "503": "The server is not currently serving (closed or unreachable)."
+  },
+  "FORM-CREATOR": {
+    "FORM": {
+      "NAME": "Form Name",
+      "DESCRIPTION": "Form Description"
+    },
+    "DEFAULT-VALUE": {
+      "OPTIONS": {
+        "NAME": "Option",
+        "VALUE": "Value"
+      },
+      "LABEL": {
+        "TEXTBOX": "Text Box Title",
+        "TEXTAREA": "Text Area Title",
+        "RADIOBOX": "Single Selection Title",
+        "CHECKBOX": "Multiple Selection Title",
+        "DROPDOWN": "List Selection Title",
+        "FILE-UPLOAD": "File Load Title",
+        "INFO": "Between Line Note"
+      },
+      "PLACEHOLDER": {
+        "TEXTBOX": "Enter Value",
+        "TEXTAREA": "Enter Text"
+      }
+    },
+    "AVAILABLE-FIELDS": {
+      "TEXTBOX": "Text Box",
+      "TEXTAREA": "Text Area",
+      "RADIOBOX": "Single Selection",
+      "CHECKBOX": "Multiple Selections",
+      "DROPDOWN": "Open List Selection",
+      "FILE-UPLOAD": "File Installation",
+      "INFO": "Between Line Note"
+    },
+    "FIELD-REQUIRED-MESSAGE": "There must be at least one form member.",
+    "EMPTY-FIELD": "Move at least one of the forms on the right into this area.",
+    "LABEL": {
+      "FORM-FIELDS": "Form Fields",
+      "ADD-FIELD.DESCRIPTION": "Drag the following areas to form a form.",
+      "FIELD-SETTINGS": "Field Properties",
+      "NO-FIELD.SELECTED": "You must select the form element to display the properties.",
+      "PLACEHOLDER": "Information Text",
+      "LABEL": "Title",
+      "REQUIRED": "Should this area be mandatory?",
+      "FIELD-TYPE": "Area Type",
+      "GENERAL-SETTINGS": "General Settings",
+      "ATTRIBUTES": "Width Value",
+      "SORT-ORDER": "Row No.",
+      "MIN-LENGTH": "Minimum Number of Characters",
+      "MAX-LENGTH": "Maximum Character Number",
+      "INFO": "Description",
+      "FILE-BUTTON-TEXT": "Select File"
+    },
+    "OPTIONS": {
+      "TITLE": "Options",
+      "NOT-FOUND": "Option not found.",
+      "LABEL": "Label",
+      "VALUE": "Value",
+      "ADD-NEW-OPTION": "Add Option",
+      "ACTIVE-OPTION": "Active Option",
+      "PASSIVE-OPTION": "Passive Option",
+      "DELETE-OPTION": "Delete Option",
+      "ATTRIBUTES": {
+        "SMALL": "Too Short",
+        "XSMALL": "Short",
+        "LARGE": "Medium",
+        "XLARGE": "Long",
+        "XXLARGE": "Too Long"
+      },
+      "REQUIRED": {
+        "YES": "Yeah.",
+        "NO": "No."
+      }
+    },
+    "MESSAGE": {
+      "MAXIMUM-FIELD": "You can add at most 15 areas. For more, you have to do Google Drive integration.",
+      "MAXIMUM-OPTION": "You can add at most 10 options. For more, you have to do Google Drive integration.",
+      "MIN-LENGTH-WARNING": "The minimum number of characters cannot be greater than the maximum number of characters.",
+      "MAXIMUM-USAGE-LIMIT": "You can add the maximum (x) period.",
+      "MAXIMUM-USAGE-LIMIT-FOR-CUSTOMIZATION-FORM": "You can add at most 10 spaces."
+    }
+  },
+  "CONTENT_AI": {
+    "VALIDATION": "Please fill in the area!",
+    "TRY_AGAIN": "Please try again!",
+    "INFORMATION": {
+      "INPUT": {
+        "SUBJECT": "Please write down the subject you requested from the AI vehicle.",
+        "CHARACTER": {
+          "SALES_EXPERT": "The product or services are a character that is focused on increasing the volume of sales by effectively introducing customers, understanding customer needs and providing solutions and strengthening customer relations.",
+          "SEO_EXPERT": "It's a character who uses strategies and techniques to get websites higher on search engines, focusing on making organic traffic more visible to your site.",
+          "CREATOR": "It's a character that creates interesting and valuable content, trying to influence the audience.",
+          "FUN": "He's a funny, friendly character who can communicate with users using a funny and cheerful tone.",
+          "WRITER": "It's a character who expresss emotions in an impressive language and uses imagination creatively."
+        },
+        "CHARACTER_COMMENT": "You can direct the character you choose."
+      },
+      "OUTPUT": {
+        "TOKEN_LIMIT": "1 Word averages between 3 and 5 tokens. It varys according to content. (Used/Limit)",
+        "TOKEN_DURATION": "It will be used until the appointed date.",
+        "TOKEN_UNLIMITED": "It's indefinitely."
+      }
+    },
+    "MODAL_TITLE": {
+      "BLOG_TITLE": "Create Blog Title",
+      "BLOG_CONTENT": "Create blog contents",
+      "PAGE_TITLE": "Create Page Title",
+      "PAGE_CONTENT": "Create Page Contents",
+      "PRODUCT_CONTENT": "Create Product Content",
+      "CATEGORY_HEADER_CONTENT": "Create Category Contents",
+      "CATEGORY_FOOTER_CONTENT": "Create Category Contents",
+      "BRAND_HEADER_CONTENT": "Create brand content",
+      "BRAND_FOOTER_CONTENT": "Create brand content"
+    },
+    "MODAL_INPUT_PLACEHOLDER": {
+      "BLOG": {
+        "SUBJECT": "Example: Filter coffee brewing methods",
+        "CHARACTER": "Example: Talk about beginners"
+      },
+      "PAGE": {
+        "SUBJECT": "Example: Filter coffee brewing methods",
+        "CHARACTER": "Example: Talk about beginners"
+      },
+      "PRODUCT": {
+        "SUBJECT": "Example: Cotton overpassed T-shirt",
+        "CHARACTER": "Example: Talk about easy cut"
+      },
+      "CATEGORY": {
+        "SUBJECT": "Example: The advantages of cotton clothing",
+        "CHARACTER": "Example: Talk about being able to wear it every season"
+      },
+      "BRAND": {
+        "SUBJECT": "Example: XYZ Clothing Brand",
+        "CHARACTER": "Example: Talk about high quality and customer satisfaction"
+      }
+    },
+    "OTHER": {
+      "SUBJECT": "Subject",
+      "SALES_EXPERT": "Sales Expert",
+      "SEO_EXPERT": "Seo Specialist",
+      "CREATOR": "Content Manufacturer",
+      "FUN": "It's fun.",
+      "WRITER": "Author",
+      "CHARACTER": "Character",
+      "CHARACTER_COMMENT": "Direct Character",
+      "CHARACTER_COMMENT_DESCRIPTION": "Appropriate",
+      "PARAGRAPH": "Paragraph",
+      "WORD": "Word",
+      "CHARACTER_CONTENT": "Contents",
+      "GENERATE": "Create",
+      "ADD": "Add",
+      "CHANGE": "Replace with Contents",
+      "COPY_TO_CLIPBOARD": "Copy to Pano",
+      "USAGE_TOKEN": "Used",
+      "BUY_TOKEN": "Buy",
+      "MODAL_HIDE_CONFIRM": "You used your Token to create a content. Are you sure you want to shut it down without using it?",
+      "GENERATE_TIMEOUT": "You've had a 30-second statute of limitations while producing content. Please try again.",
+      "PLEASE_SELECTED_FOR_TITLE": "Please make your choice..."
+    }
+  }
+}

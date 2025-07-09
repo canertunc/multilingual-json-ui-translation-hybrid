@@ -1,0 +1,746 @@
+{
+  "GENERAL": {
+    "DOCUMENT-TITLE": {
+      "LABEL": "Yönetim Paneli",
+      "PAGES": {
+        "LOGIN": "Giriş",
+        "FORGOT-PASS": "Şifremi Unuttum",
+        "SEND-SMS": "Sms Gönder",
+        "SMS-VERIFICATION": "Sms Doğrulama",
+        "REMOTELOGIN": "Giriş"
+      }
+    },
+    "CONTRACT-MODAL": {
+      "TITLE": "Hizmet ve Kullanım Şartları",
+      "BUTTON": "Onaylıyorum"
+    },
+    "INTRO-DEFAULT-OPTIONS": {
+      "TITLE": "Tanıtımı başlat",
+      "NEXT-LABEL": "İleri <i class='fal fa-chevron-right ml-2'></i>",
+      "PREV-LABEL": "<i class='fal fa-chevron-left mr-2'></i> Geri",
+      "SKIP-LABEL": "<i class='fal fa-times'></i>",
+      "DONE-LABEL": "Bitir"
+    },
+    "REDIRECT-TO-OLD-VIEW": {
+      "DESCRIPTION": "Bu sayfaya şu an için sadece eski görünümde erişebilirsiniz.",
+      "BUTTON-TEXT": "Eski Görünümde Aç"
+    },
+    "VIEWING-NOT-ALLOWED": {
+      "TITLE": "Bu alanı görüntüleme izniniz yok."
+    },
+    "ALL": "Tümü",
+    "LOGOUT": "Çıkış",
+    "MY-ACCOUNT": "Kullanıcı Bilgileri",
+    "CHOOSE": "Seçiniz",
+    "CLEAR": "Temizle",
+    "COPY": "Kopyala",
+    "COPIED": "Kopyalandı",
+    "FILTERS": "Filtreler",
+    "FILTER": "Filtrele",
+    "SEARCH": "Ara",
+    "SEARCH-ADMIN-PAGE": "Örn: Ek Ayarlar",
+    "YES": "Evet",
+    "NO": "Hayır",
+    "AVAILABLE": "Var",
+    "NOT_AVAILABLE": "Yok",
+    "OPENED": "Açık",
+    "CLOSED": "Kapalı",
+    "ACTIVE": "Aktif",
+    "PASSIVE": "Pasif",
+    "SHOW": "Göster",
+    "HIDE": "Gizle",
+    "FORWARD": "İleri",
+    "BEGIN": "Başla",
+    "WAITING-FOR-APPROVAL": "Onay Bekliyor",
+    "SUSPENDED": "Askıya Alındı",
+    "PREVIEW-SITE": "Siteyi Görüntüle",
+    "PREVIEW-ON-WEB": "Sitede Görüntüle",
+    "QUICK-EDIT": "Hızlı Düzenle",
+    "NG-SELECT-NOT-FOUND-TEXT": "Kayıt bulunamadı.",
+    "NG-SELECT-ADD-TAG-TEXT": "Yeni Oluştur: ",
+    "NG-SELECT-LOADING-TEXT": "Yükleniyor",
+    "NG-SELECT-TYPE-TO-SEARCH-TEXT": "Yazarak Arayın",
+    "NG-SELECT-PLACEHOLDER-TEXT": "Seçin",
+    "HELP-BAR": {
+      "TITLE": "Yardım Sayfası",
+      "BUTTON.LABEL": "Yardım",
+      "REDIRECT-BUTTON.LABEL": "Yardım Sayfası"
+    },
+    "SELECT-FILE": "Dosya Seç",
+    "IMAGE": "Resim",
+    "ADD-IMAGE": "Resim Ekle",
+    "CHANGE-IMAGE": "Resmi Düzenle",
+    "IMAGE-UPLOAD-INFO": "ya da sürükle bırak.",
+    "DRAG-IMAGE": "Buraya bırakın.",
+    "SHOWCASE-IMAGE": "Vitrin",
+    "EDIT-SEO-DETAIL": "Düzenle",
+    "COPY-TO-CLIPBOARD": "Kopyalandı",
+    "INVALID-IDENTITY-NUMBER": "Geçersiz TC Kimlik Numarası",
+    "BUTTON": {
+      "SUBMIT": "Onayla",
+      "SAVE": "Kaydet",
+      "SAVE-AND-EXIT": "Kaydet ve Çık",
+      "SAVE-AND-ADD-NEW": "Kaydet ve Yeni Ekle",
+      "CANCEL": "Vazgeç",
+      "CONFIRM": "Onayla",
+      "UPDATE": "Güncelle",
+      "CLOSE": "Kapat",
+      "DELETE": "Sil",
+      "EDIT": "Düzenle",
+      "RESET": "Formu Sıfırla",
+      "MORE": "Daha Fazla",
+      "ADD": "Ekle",
+      "OK": "Tamam",
+      "GO-BACK": "Geri Dön"
+    },
+    "EXPORT": "Excele Aktar",
+    "SEO": {
+      "TITLE": "Seo Bilgileri"
+    },
+    "STATUS": {
+      "LABEL": "Durumu"
+    },
+    "ID": {
+      "LABEL": "ID"
+    },
+    "STATUS-CARD-TITLE": "Durumu",
+    "SUCCESS-MESSAGE": {
+      "POST": "Kaydedildi",
+      "PUT": "Düzenleme kaydedildi.",
+      "DELETE": "Silindi",
+      "SEND-EMAIL": "Gönderildi",
+      "IN-QUEUE": "İşleminiz başarıyla kuyruğa alınmıştır.İşleminizi Ayarlar > İşlem Kuyruğu sayfasından takip edebilirsiniz.",
+      "CACHE-CLEAR": "Önbellek temizleme işleminiz gerçekleşmiştir.",
+      "QUEUE": "İşleminiz başarıyla kuyruğa alınmıştır.",
+      "REPORT": "Rapor oluşturma işleminiz başarıyla kuyruğa alınmıştır. İşleminizi Ayarlar > İşlem Kuyruğu sayfasından takip edebilirsiniz.",
+      "COMPLETED": "İşleminiz tamamlanmıştır."
+    },
+    "FAILED-MESSAGE": {
+      "SEND-EMAIL": "Mail gönderim talebiniz üyenin mail onayı kapalı olduğu için gerçekleşmedi."
+    },
+    "LIVE-SUPPORT": "Destek Sistemi",
+    "SIDE-BAR": {
+      "TOGGLE-MENU-LABEL": {
+        "SHOW": "Menüyü Sabitle",
+        "HIDE": "Menüyü Gizle"
+      },
+      "DASHBOARD.LABEL": "Anasayfa",
+      "CATALOG-MODULE.LABEL": "Katalog",
+      "CONTENT-MODULE.LABEL": "İçerikler",
+      "MAIL-MODULE.LABEL": "Mail Yönetimi",
+      "BLOG-MODULE.LABEL": "Bloglar",
+      "MEMBER-MODULE.LABEL": "Üye ve Bayiler",
+      "USER-MODULE.LABEL": "Kullanıcılar",
+      "SETTING-MODULE.LABEL": "Ayarlar",
+      "CAMPAIGN-MODULE.LABEL": "Kampanyalar",
+      "SHIPMENT-MODULE.LABEL": "Kargo Ayarları",
+      "STATISTIC-MODULE.LABEL": "İstatistikler",
+      "STATISTIC-ORDER.LABEL": "Sipariş İstatistikleri",
+      "STATISTIC-OVERVIEW.LABEL": "Özet İstatistikler ",
+      "STATISTIC-VISIT.LABEL": "Ziyaret İstatistikleri",
+      "STATISTIC-MEMBER.LABEL": "Üye İstatistikleri",
+      "STATISTIC-PRODUCT.LABEL": "Ürün İstatistikleri",
+      "REPORT.LABEL": "Raporlar",
+      "INTEGRATION-MODULE.LABEL": "Entegrasyonlar",
+      "APP-STORE-MODULE.LABEL": "Uygulamalar",
+      "PACKAGE-INFO-MODULE.LABEL": "Hesabım",
+      "GENERAL-SETTING-MODULE.LABEL": "Genel Ayarlar",
+      "DESIGN-SETTING-MODULE.LABEL": "Tasarım Ayarları",
+      "PRODUCTS.LABEL": "Ürünler",
+      "SELECTION-GROUPS.LABEL": "Ek Özellikler",
+      "OPTION-GROUPS.LABEL": "Varyant Sistemi",
+      "SPEC-GROUPS.LABEL": "Ürün Özellikleri",
+      "SPEC-NAMES.LABEL": "Özellik Adları",
+      "EXTRA-INFOS.LABEL": "Ek Bilgiler",
+      "BRANDS.LABEL": "Markalar",
+      "PAGES.LABEL": "Sayfalar",
+      "MAILLISTS.LABEL": "Mail Listesi",
+      "MAILLIST-IMPORT.LABEL": "Mail Listesi Aktarımı",
+      "BLOGS.LABEL": "Bloglar",
+      "BLOG-TAGS.LABEL": "Blog Etiketleri",
+      "BLOG-CATEGORIES.LABEL": "Blog Kategorileri",
+      "BLOG-COMMENTS.LABEL": "Blog Yorum Ayarları",
+      "MAILLIST-GROUPS.LABEL": "Mail Listesi Grupları",
+      "MEMBERS.LABEL": "Üyeler",
+      "STMP-MAIL-SETTINGS.LABEL": "SMTP-Mail Ayarları",
+      "SMTP-PREF.LABEL": "SMTP Ayarları",
+      "MAIL-ACCOUNT.LABEL": "Mail Hesapları",
+      "SMS.LABEL": "SMS Ayarları",
+      "SMS-MODULE.LABEL": "SMS Ayarları",
+      "NET-GSM-SETTINGS.LABEL": "NET GSM Ayarları",
+      "SMS-SETTINGS.LABEL": "SMS Seçenekleri",
+      "NET-GSM-LOGS.LABEL": "NET GSM Raporları",
+      "MEMBER-GROUPS.LABEL": "Üye/Bayi Grupları",
+      "USERS.LABEL": "Kullanıcılar",
+      "BLACKLISTS.LABEL": "Engellenen IP'ler",
+      "PROCESS-LOGS.LABEL": "İşlem Kayıtları",
+      "POLLS.LABEL": "Anketler",
+      "CATEGORIES.LABEL": "Kategoriler",
+      "SHIPMENT-PREF.LABEL": "Teslimat Ek Ayarları",
+      "ABANDONEDS.LABEL": "Sepet Hatırlatma",
+      "ABANDONED_CARTS.LABEL": "Terkedilen Sepetler",
+      "ABANDONED_ORDERS.LABEL": "Terkedilen Siparişler",
+      "FRAUD-RISKS.LABEL": "Risk Kriterleri",
+      "SITE-CONTENTS.LABEL": "İçerik Ayarları",
+      "DISTRIBUTORS.LABEL": "Kişisel Tedarikçiler",
+      "PRICE-GAP.LABEL": "Fiyat Aralıkları",
+      "LABELS.LABEL": "Kişisel Etiketler",
+      "FILTER-MANAGEMENT.LABEL": "Filtreler",
+      "PAYMENT-SETTINGS.LABEL": "Ödeme Ayarları",
+      "CURRENCIES.LABEL": "Döviz Kurları",
+      "FORMS.LABEL": "Formlar",
+      "PRODUCT-CUSTOMIZATION-GROUPS.LABEL": "Ürün Özelleştirme",
+      "DESIGN-SETTINGS.LABEL": "Tasarım Ayarları",
+      "COMMON-PREF.LABEL": "Tanımlamalar",
+      "CUSTOMIZATION-GROUPS.LABEL": "Üye Kayıt Formu",
+      "PAYMENTS.LABEL": "Ödemeler",
+      "ORDER-MODULE.LABEL": "Siparişler",
+      "CONTRACTS.LABEL": "Abonelikler",
+      "SEO-TAGS.LABEL": "SEO+ Etiketleri",
+      "ORDERS.LABEL": "Siparişler",
+      "POINT-LOGS.LABEL": "Puan Geçmişi",
+      "POINT-PREF.LABEL": "Puan Sistemi",
+      "SHIPPING-COMPANIES.LABEL": "Kargo Firmaları",
+      "COUNTRIES.LABEL": "Ülkeler",
+      "LOCATIONS.LABEL": "Şehirler",
+      "TOWN-GROUPS.LABEL": "Semt / İlçeler",
+      "REGIONS.LABEL": "Teslimat Bölgeleri",
+      "FILTER-MENU-SETTINGS.LABEL": "Filtre Ayarları",
+      "ORDER-REFUND-REQUESTS.LABEL": "İptal ve İade",
+      "LANGUAGES.LABEL": "Dil Ayarları",
+      "BULK-EDIT.LABEL": "Çoklu Ürün Güncelleme",
+      "INVOICE-SETTINGS.LABEL": "Fatura Ayarları",
+      "INVOICE-DESIGN.LABEL": "Fatura Tasarlama",
+      "INVOICE-EXPORT.LABEL": "Fatura Çıktısı",
+      "DRAFT-ORDER.LABEL": "Taslak Sipariş",
+      "USER-ROLES.LABEL": "Kullanıcı Rolleri",
+      "TICKETS.LABEL": "Destek Talepleri",
+      "MAIL-CONTENTS.LABEL": "Mail Şablonları",
+      "CUSTOM-MAILS.LABEL": "Mail Yönetimi",
+      "CUSTOM-MAIL.LABEL": "Mail Yönetimi",
+      "SUBSCRIPTIONS.LABEL": "Abonelik Yönetimi",
+      "COUPONS.LABEL": "Hediye Çekleri",
+      "POS-CAMPAIGNS.LABEL": "Pos Kampanyaları",
+      "PROMOTIONS.LABEL": "Promosyonlar",
+      "QUICK-CARTS.LABEL": "Hızlı Satın Al",
+      "PACKAGES.LABEL": "Paket Oluşturucu",
+      "PURCHASE-LIMITATIONS.LABEL": "Satın Alma Limiti",
+      "INSTAGRAM-SHOPS.LABEL": "Instagram Feed & Shop",
+      "THEMES.LABEL": "Temalar",
+      "THEMES-EXTRA-PREF.LABEL": "Tema Site Ayarları",
+      "SLIDERS.LABEL": "Sliderlar",
+      "MENU-ITEMS.LABEL": "Menü Yönetimi",
+      "BANNER-MANAGEMENT.LABEL": "Bannerlar",
+      "DROPDOWN-PREF.LABEL": "Aşağı Açılır Menü",
+      "BLOCKS.LABEL": "Bloklar",
+      "CHECKOUT-DESIGN-PREF.LABEL": "Ödeme Sayfası Tasarımı",
+      "EXTRA-PREF.LABEL": "Ek Ayarlar",
+      "SEO-PREF.LABEL": "SEO Ayarları",
+      "CUSTOM-SCRIPTS.LABEL": "Özel Script Kodları",
+      "FILE-MANAGER.LABEL": "Dosya Yönetimi",
+      "OPTIMIZATIONS.LABEL": "Optimizasyonlar",
+      "PARTNERSHIPS.LABEL": "Gelir Ortaklığı",
+      "OUTPUTS.LABEL": "Idea Output",
+      "CLIENT.LABEL": "API",
+      "CLIENT-WEBHOOKS.LABEL": "Webhook Yönetimi",
+      "CLIENT-PERMISSION.LABEL": "İzin Yönetimi",
+      "MARKETPLACE-INTEGRATIONS.LABEL": "Pazaryerleri",
+      "INTEGRATIONS.LABEL": "Entegrasyonlar",
+      "APP-STORE.LABEL": "Uygulama Mağazası",
+      "JIVOCHAT.LABEL": "Canlı Destek",
+      "GENERAL-SETTINGS.LABEL": "Genel Ayarlar",
+      "MIDBLOCKS.LABEL": "Vitrin Blokları",
+      "TABBED-MIDBLOCKS.LABEL": "Tablı Vitrin Blokları",
+      "QUEUE-PROCESS.LABEL": "İşlem Kuyruğu",
+      "PRODUCT-SHOWCASE.LABEL": "Ürün Vitrin Düzeni",
+      "PRODUCT-BUTTON.LABEL": "Ürün Butonları",
+      "PRODUCT-COMMENT.LABEL": "Ürün Yorumları",
+      "PRODUCT-FEED.LABEL": "Ürün Önerileri",
+      "FAVOURITED-PRODUCT.LABEL": "Favori Ürünler",
+      "MULTI-PRODUCT-EDIT.LABEL": "Ürün Tabanlı Güncelleme",
+      "STOCK-WARNING.LABEL": "Ürün Haber Listesi",
+      "QUESTION.LABEL": "Ürün Soruları",
+      "POPUP.LABEL": "Popup & Bar Yönetimi",
+      "ACTIVE-CARTS.LABEL": "Aktif Sepetler",
+      "SHOPPING-EXPERIENCE.LABEL": "Alışveriş Deneyimleri",
+      "COLLECTION.LABEL": "Koleksiyon",
+      "GENERAL-SETTINGS-DESCRIPTIONS": {
+        "EXTRA-PREF": "Site temel ayarlarınızı yönetin.",
+        "SEO-PREF": "Arama motoru ayarlarınızı düzenleyin.",
+        "CUSTOM-SCRIPTS": "Takip kodlarınızı düzenleyin.",
+        "PAYMENT-SETTINGS": "Ödeme yöntemlerinizi seçin ve ödeme ayarlarınızı yönetin.",
+        "LANGUAGES": "Sitenizde yer alan içeriklerinizi düzenleyin.",
+        "USER-MODULE": "Yönetim paneli kullanıcılarınızı ve kullanıcı yetkilerini yönetin.",
+        "COMMON-PREF": "Kurumsal bilgilerinizi satış sözleşmelerinizi düzenleyin.",
+        "FILE-MANAGER": "Özel dosya ve klasörlerinizi yönetin.",
+        "CUSTOMIZATION-GROUPS": "Üye kayıt formunuzu yönetin.",
+        "OPTIMIZATIONS": "Ön belleğinizi temizleyin ve kataloğunuzu optimize edin.",
+        "CURRENCIES": "Döviz kurlarınızı güncelleyin ve yönetin.",
+        "LINKED-ACCOUNTS": "Bağlı hesaplarınızı güncelleyin ve yönetin.",
+        "SECURITY-SETTINGS": "Güvenlik ayarlarınızı güncelleyin ve yönetin."
+      },
+      "DESIGN-SETTINGS-DESCRIPTIONS": {
+        "THEMES": "Temaları listeleyin ve yönetin.",
+        "THEMES-SITE-PREF": "Tema Site Ayarları",
+        "SLIDERS": "Sliderları düzenleyin.",
+        "MENU-ITEMS": "Menüleri düzenleyin.",
+        "BANNERS": "Bannerları yönetin.",
+        "PROMOTION-BARS": "Promosyon Bar",
+        "DROPDOWN-PREFS": "Aşağı açılır menüleri yönetin.",
+        "BLOCKS": "Sağ ve sol blokları yönetin.",
+        "CHECKOUT-DESIGN-PREF": "Ödeme sayfası tasarımını yönetin.",
+        "MIDBLOCKS": "Vitrin bloklarını yönetin.",
+        "TABBED-MIDBLOCKS": "Tablı vitrin bloklarını yönetin.",
+        "POPUP": "Popup ve Bar tasarımlarını yönetin."
+      },
+      "LINKED-ACCOUNTS": {
+        "LABEL": "Pazarlama ve Analiz Araçları"
+      },
+      "SECURITY-SETTINGS": {
+        "LABEL": "Güvenlik Ayarları"
+      },
+      "PROMOTION.LABEL": "Promosyonlar",
+      "PACKAGE-INFO.LABEL": "Hesabım"
+    },
+    "FORM-BUTTONS": {
+      "DELETE-MODAL-CONTENT": "Silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.",
+      "RESET-MODAL-TITLE": "Formu Sıfırla",
+      "RESET-MODAL-CONTENT": "Form üzerinde kaydedilmemiş değişiklikler var. Sıfırlanmasını istiyor musunuz?"
+    },
+    "DATATABLE": {
+      "MESSAGES": {
+        "EMPTY": "<i class='fal fa-page-break'></i><div>Kayıt bulunamadı.</div>",
+        "CHOOSE-BRAND": "<i class='fal fa-crosshairs'></i><div>Lütfen bir marka seçin.</div>",
+        "CHOOSE-CATEGORY": "<i class='fal fa-crosshairs'></i><div>Lütfen bir kategori seçin.</div>",
+        "CHOOSE-COLLECTION": "<i class='fal fa-crosshairs'></i><div>Lütfen bir koleksiyon seçin.</div>",
+        "TOTAL": "Kayıt",
+        "SELECTED": "Seçili"
+      },
+      "FILTER-FORM": {
+        "FILTER-ALL": "Tümü",
+        "SAVE-SEARCH": {
+          "TITLE": "Kaydet",
+          "NAME": "Kayıt Adı"
+        },
+        "NEW-SEARCH": "Yeni Arama",
+        "DUPLICATE-NAME": "Bu isim ve kriterlerde kayıtlı bir filtreniz mevcuttur. Lütfen başka bir isim ve arama kriterleri girin."
+      },
+      "ACTIONS": {
+        "NAME": "İşlemler",
+        "DELETE": {
+          "NAME": "Sil",
+          "MESSAGE": "Seçili kayıtları silmek istediğinizden emin misiniz? Bu işlem geri alınamaz."
+        },
+        "MOVE": {
+          "NAME": "Taşı",
+          "MESSAGE": "Seçili kayıtları taşımak istediğinizden emin misiniz?"
+        },
+        "COPY": {
+          "NAME": "Kopyala",
+          "MESSAGE": "Seçili kayıtları kopyalamak istediğinizden emin misiniz?"
+        },
+        "UPDATE": {
+          "NAME": "Güncelle",
+          "MESSAGE": "Seçili kayıtları güncellemek istediğinizden emin misiniz?",
+          "SELECT-ALL": "adet kaydın tümü için işlem yap.",
+          "DESELECT-ALL": "Seçimi geri al."
+        },
+        "CHANGE-STATUS-TO-ACTIVE": {
+          "NAME": "Aktif Yap",
+          "MESSAGE": "Seçili kayıtların durumlarını 'Aktif' olarak değiştirmek istediğinizden emin misiniz?"
+        },
+        "CHANGE-STATUS-TO-PASSIVE": {
+          "NAME": "Pasif Yap",
+          "MESSAGE": "Seçili kayıtların durumlarını 'Pasif' olarak değiştirmek istediğinizden emin misiniz?"
+        }
+      }
+    },
+    "NOTIFICATIONS": {
+      "TITLE": "Bildirimler",
+      "ORDERS": "Adet Yeni Sipariş Var.",
+      "NO-NOTIFICATIONS": "Yeni Bildirim Yok."
+    },
+    "QUESTION": {
+      "LABEL": "Ürün Soruları"
+    }
+  },
+  "COMPONENT": {
+    "DATAGRID": {
+      "SHOW": "Göster",
+      "HIDE": "Gizle",
+      "RECORD-COUNT": "Kayıt Sayısı",
+      "FROZEN-ON": "Kilidi Aç",
+      "FROZEN-OFF": "Kilitle",
+      "ITEM-SELECTED": "adet kayıt seçildi."
+    },
+    "SELECT-LIST": {
+      "SEARCH": {
+        "PLACEHOLDER": "Kategori arayın."
+      },
+      "NOT-FOUND": "Herhangi bir sonuç bulunamadı.",
+      "BACK": "Geri",
+      "SELECTED-LIST": "Seçili Kayıtlar",
+      "SUBMIT": "Tamam",
+      "SELECTED": "Seçili",
+      "SELECT": "Seç",
+      "DESELECT": "Kaldır"
+    },
+    "TEXT-EDITOR": {
+      "TAB": {
+        "SOURCE": "Kaynak",
+        "FILE": "Dosya",
+        "DIRECTORY": "Dizin",
+        "FILES": "Dosyalar"
+      },
+      "FORM": {
+        "SOURCE": "Resim Kaynağı",
+        "ALT": "Başlık (Alt Etiketi)",
+        "WIDTH": "Genişlik",
+        "HEIGHT": "Yükseklik",
+        "LINK": "Bağlantı",
+        "LINK-OPEN-TYPE": "Yeni sekmede aç",
+        "ADD": "Ekle"
+      },
+      "TITLE": "Dosya Yönetimi",
+      "TYPE-DEFAULT-TEXT": "Ana Dizin",
+      "NO-RECORDS": "Kayıt bulunamadı.",
+      "FIELDS": {
+        "NEW-FOLDER": {
+          "LABEL": "Yeni Dizin"
+        },
+        "UPLOAD": {
+          "LABEL": "Dosya Yükle"
+        },
+        "COMPRESS": {
+          "LABEL": "Dışarı Aktar"
+        },
+        "REMOVE-SELECTED": {
+          "LABEL": "Seçilenleri Sil"
+        },
+        "REFRESH": {
+          "LABEL": "Yenile"
+        },
+        "OPEN-DIRECTORY": {
+          "LABEL": "Dizini Aç"
+        },
+        "COMPRESS-DIRECTORY": {
+          "LABEL": "Dışarı Aktar",
+          "TOOLTIP": "Bulunduğunuz dizini dışarıya aktarın."
+        },
+        "DELETE-DIRECTORY": {
+          "LABEL": "Dizini Sil"
+        },
+        "VIEW-FILE": {
+          "LABEL": "Görüntüle"
+        },
+        "DOWNLOAD-FILE": {
+          "LABEL": "Dosyayı İndir"
+        },
+        "DELETE-FILE": {
+          "LABEL": "Dosyayı Sil"
+        },
+        "CURRENT-SIZE": {
+          "LABEL": "Boyut"
+        },
+        "MAX-SIZE": {
+          "LABEL": "Maksimum Boyut"
+        },
+        "ITEM": {
+          "LABEL": "Öğe"
+        }
+      },
+      "MODALS": {
+        "CREATE-DIRECTORY": {
+          "TITLE": "Yeni Dizin",
+          "INPUT-LABEL": "Dizin Adı"
+        },
+        "FILE-UPLOAD": {
+          "TITLE": "Dosya Yükle",
+          "INPUT-LABEL": "Dosya Seç"
+        }
+      },
+      "ALERT": {
+        "DIRECTORY-EMPTY": "Dizin boş.",
+        "FILE-NOT-SELECTED": "Dosya seçilmedi.",
+        "MAX-SIZE": "Yüklenmek istenen dosya(lar) ile beraber izin verilen maksimum boyut (arg0) aşılıyor.",
+        "MAX-FILE-SIZE": "Yüklenmek istenen dosya (arg0) ile beraber izin verilen  maksimum boyut (arg1) aşılıyor.",
+        "UPLOAD-MAX-FILE-LIMIT": "Bir defada maksimum 10 adet dosya yükleyebilirsiniz.",
+        "FILE-EXTENSION-NOT-VALID": "Yüklemeye çalıştığınız (arg0) uzantısı sistem tarafından desteklenmemektedir."
+      }
+    }
+  },
+  "MODAL": {
+    "RESET": {
+      "TITLE": "Formu Sıfırla",
+      "CONTENT": "Form üzerinde kaydedilmemiş değişiklikler var. Sıfırlanmasını istiyor musunuz?",
+      "PRIMARY-BUTTON-TEXT": "Formu Sıfırla",
+      "SECONDARY-BUTTON-TEXT": "Düzenlemeye Devam Et"
+    },
+    "COPY-PRODUCT": {
+      "TITLE": "Ürünü Kopyala",
+      "CONTENT": "Form üzerinde kaydedilmemiş değişiklikler var. Kopyalamak istiyor musunuz?",
+      "PRIMARY-BUTTON-TEXT": "Ürünü Kopyala",
+      "SECONDARY-BUTTON-TEXT": "Düzenlemeye Devam Et"
+    },
+    "REMOVE-FILTER": {
+      "TITLE": "Kayıtlı Filtreyi Sil",
+      "CONTENT": "Kayıtlı filtreyi silmek istediğinizden emin misiniz?",
+      "PRIMARY-BUTTON-TEXT": "Onayla",
+      "SECONDARY-BUTTON-TEXT": "Vazgeç"
+    },
+    "PENDING-CHANGES": {
+      "TITLE": "Kaydedilmemiş İçerik",
+      "CONTENT": "Form üzerinde kaydedilmemiş değişiklikler var.",
+      "PRIMARY-BUTTON-TEXT": "Kaydetmeden Çık",
+      "SECONDARY-BUTTON-TEXT": "Düzenlemeye Devam Et"
+    },
+    "DELETE": {
+      "TITLE": "Kaydı Sil",
+      "CONTENT": "Silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.",
+      "PRIMARY-BUTTON-TEXT": "Sil",
+      "SECONDARY-BUTTON-TEXT": "Vazgeç"
+    },
+    "MULTIPLE-DELETE": {
+      "TITLE": "Seçili Kayıtları Sil",
+      "CONTENT": "Seçili kayıtları silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.",
+      "PRIMARY-BUTTON-TEXT": "Sil",
+      "SECONDARY-BUTTON-TEXT": "Vazgeç"
+    },
+    "PAYMENT-GATEWAY-DELETE": {
+      "TITLE": "Ödeme Sistemini Sil",
+      "CONTENT": "Seçili ödeme sistemini silmek istediğinizden emin misiniz?",
+      "PRIMARY-BUTTON-TEXT": "Sil",
+      "SECONDARY-BUTTON-TEXT": "Vazgeç"
+    },
+    "MONEY-ORDER-DELETE": {
+      "TITLE": "Banka Hesabını Sil",
+      "CONTENT": "Seçili banka hesabını silmek istediğinizden emin misiniz?",
+      "PRIMARY-BUTTON-TEXT": "Sil",
+      "SECONDARY-BUTTON-TEXT": "Vazgeç"
+    },
+    "PAYMENT-PROXY-DELETE": {
+      "TITLE": "Kart Saklama Servisini Sil",
+      "CONTENT": "Seçili kart saklama servisini silmek istediğinizden emin misiniz?",
+      "PRIMARY-BUTTON-TEXT": "Sil",
+      "SECONDARY-BUTTON-TEXT": "Vazgeç"
+    },
+    "POS-ACCOUNT-DELETE": {
+      "TITLE": "Pos Hesabını Sil",
+      "CONTENT": "Seçili pos hesabını silmek istediğinizden emin misiniz?",
+      "PRIMARY-BUTTON-TEXT": "Sil",
+      "SECONDARY-BUTTON-TEXT": "Vazgeç"
+    },
+    "INSTALLMENT-RATE-UPDATE": {
+      "TITLE": "Taksit Oranlarını Güncelle",
+      "CONTENT": "Taksit oranlarını güncellemek istediğinizden emin misiniz?",
+      "PRIMARY-BUTTON-TEXT": "Güncelle",
+      "SECONDARY-BUTTON-TEXT": "Vazgeç"
+    },
+    "RESET-LANGUAGE": {
+      "TITLE": "Dil Ayarlarını Sıfırla",
+      "CONTENT": "Bu işlemden sonra dil ayarlarınız varsayılan ayarlara geri dönecektir. Onaylıyor musunuz?",
+      "PRIMARY-BUTTON-TEXT": "Sıfırla",
+      "SECONDARY-BUTTON-TEXT": "Vazgeç"
+    },
+    "PAYMENT-GATEWAY-DUPLICATE": {
+      "TITLE": "Pos Sağlayıcı Değişikliği",
+      "CONTENT": "Bu işlemden sonra 'Aktif' olan \"(arg0)\" pos ayarınız 'Pasif' olarak değiştirilecektir. Onaylıyor musunuz?",
+      "PRIMARY-BUTTON-TEXT": "Onayla",
+      "SECONDARY-BUTTON-TEXT": "Vazgeç"
+    }
+  },
+  "VALIDATION-ERROR": {
+    "ALPHA": "Lütfen sadece alfanumerik karakterler giriniz.",
+    "REQUIRED": "Bu alan boş bırakılamaz.",
+    "EMAIL": "Lütfen geçerli bir e-mail adresi giriniz.",
+    "INVALID-USER-PASSWORD": "Şifreniz en az bir büyük harf ve rakam içermeli, Türkçe karakter içermemelidir.",
+    "INVALID-MEMBER-PASSWORD": "Şifreniz en az bir harf ve rakam içermeli, Türkçe karakter içermemelidir.",
+    "INVALID-PHONE-NUMBER": "Lütfen geçerli bir telefon numarası giriniz.",
+    "INVALID-COMPANY-IBAN": "Lütfen geçerli bir IBAN numarası giriniz.",
+    "INVALID-FAX-NUMBER": "Lütfen geçerli bir fax numarası giriniz.",
+    "COMPARE": "Girdiğiniz şifreler eşleşmiyor.",
+    "URL": "Lütfen geçerli bir URL değeri giriniz.",
+    "NUMERIC": "Bu alan sadece sayısal değerler içerebilir.",
+    "MIN-LENGTH": "Bu alana en az {{ limit }} karakter girmelisiniz ve harf ile rakam içermedilir.",
+    "MAX-LENGTH": "Bu alana en fazla {{ limit }} karakter girebilirsiniz ve harf ile rakam içermelidir.",
+    "RANGE": "Bu alana {{ min }} ile {{ max }} arasında değer girebilirsiniz.",
+    "MAX-TO-MIN-LIMIT": "Maksimum limit, minimum limit değerinden küçük olamaz.",
+    "MIN-TO-MAX-LIMIT": "Minimum limit, maksimum limit değerinden büyük olamaz.",
+    "MIN-NUMBER": "Bu değer minimum {{ limit }} olmalıdır.",
+    "MAX-NUMBER": "Bu değer maximum {{ limit }} olmalıdır.",
+    "MIN-DATE-GT-MAX-DATE": "Başlangıç tarihi bitiş tarihinden büyük olamaz.",
+    "MAX-DATE-LT-MIN-DATE": "Bitiş tarihi başlangıç tarihinden küçük olamaz."
+  },
+  "HTTP-CODES": {
+    "0": "Sunucuda bir hata oluştu ve istek gerçekleştirilemedi.",
+    "400": "Geçersiz istek.",
+    "401": "Yetki hatası.",
+    "403": "İstemcinin bu operasyona özel gerekli yetkileri yok.",
+    "404": "Kayıt bulunamadı.",
+    "405": "Bu operasyon tipine (GET, POST, PUT veya DELETE) izin verilmiyor.",
+    "413": "Yüklemek istediğiniz dosya boyutu sistemin izin verdiği limiti aşmaktadır",
+    "422": "Gönderilen nesnede (genellikle validasyonla ilgili) sorun var.",
+    "429": "Belli bir süre içerisinde çok fazla istek yapıldı.",
+    "500": "Sunucuda bir hata oluştu ve istek gerçekleştirilemedi.",
+    "503": "Sunucu şu anda hizmet vermiyor (kapalı veya erişilemiyor)."
+  },
+  "FORM-CREATOR": {
+    "FORM": {
+      "NAME": "Form Adı",
+      "DESCRIPTION": "Form Tanımı"
+    },
+    "DEFAULT-VALUE": {
+      "OPTIONS": {
+        "NAME": "Seçenek",
+        "VALUE": "Değer"
+      },
+      "LABEL": {
+        "TEXTBOX": "Metin Kutusu Başlığı",
+        "TEXTAREA": "Metin Alanı Başlığı",
+        "RADIOBOX": "Tekli Seçim Başlığı",
+        "CHECKBOX": "Çoklu Seçim Başlığı",
+        "DROPDOWN": "Liste Seçim Başlığı",
+        "FILE-UPLOAD": "Dosya Yükleme Başlığı",
+        "INFO": "Satır Arası Notu"
+      },
+      "PLACEHOLDER": {
+        "TEXTBOX": "Değer Giriniz",
+        "TEXTAREA": "Metin Giriniz"
+      }
+    },
+    "AVAILABLE-FIELDS": {
+      "TEXTBOX": "Metin Kutusu",
+      "TEXTAREA": "Metin Alanı",
+      "RADIOBOX": "Tekli Seçim",
+      "CHECKBOX": "Çoklu Seçim",
+      "DROPDOWN": "Açılır Liste Seçimi",
+      "FILE-UPLOAD": "Dosya Yükleme",
+      "INFO": "Satır Arası Notu"
+    },
+    "FIELD-REQUIRED-MESSAGE": "En az bir adet form elemanı olması gerekmektedir.",
+    "EMPTY-FIELD": "Sağ taraftaki form elemanlarından en az bir tanesini bu alana taşıyın.",
+    "LABEL": {
+      "FORM-FIELDS": "Form Alanları",
+      "ADD-FIELD.DESCRIPTION": "Form oluşturmak için aşağıdaki alanları sürükleyin.",
+      "FIELD-SETTINGS": "Alan Özellikleri",
+      "NO-FIELD.SELECTED": "Özellikleri görüntülemek için form elemanı seçmelisiniz.",
+      "PLACEHOLDER": "Bilgi Metni",
+      "LABEL": "Başlık",
+      "REQUIRED": "Bu alan zorunlu olsun mu?",
+      "FIELD-TYPE": "Alan Türü",
+      "GENERAL-SETTINGS": "Genel Ayarlar",
+      "ATTRIBUTES": "Genişlik Değeri",
+      "SORT-ORDER": "Sıra No",
+      "MIN-LENGTH": "Minimum Karakter Sayısı",
+      "MAX-LENGTH": "Maksimum Karakter Sayısı",
+      "INFO": "Açıklama",
+      "FILE-BUTTON-TEXT": "Dosya Seç"
+    },
+    "OPTIONS": {
+      "TITLE": "Seçenekler",
+      "NOT-FOUND": "Seçenek bulunamadı.",
+      "LABEL": "Etiket",
+      "VALUE": "Değer",
+      "ADD-NEW-OPTION": "Seçenek Ekle",
+      "ACTIVE-OPTION": "Aktif Seçenek",
+      "PASSIVE-OPTION": "Pasif Seçenek",
+      "DELETE-OPTION": "Seçeneği Sil",
+      "ATTRIBUTES": {
+        "SMALL": "Çok Kısa",
+        "XSMALL": "Kısa",
+        "LARGE": "Orta",
+        "XLARGE": "Uzun",
+        "XXLARGE": "Çok Uzun"
+      },
+      "REQUIRED": {
+        "YES": "Evet",
+        "NO": "Hayır"
+      }
+    },
+    "MESSAGE": {
+      "MAXIMUM-FIELD": "En fazla 15 adet alan ekleyebilirsiniz. Daha fazlası için Google Drive entegrasyonu yapmanız gerekmektedir.",
+      "MAXIMUM-OPTION": "En fazla 10 adet seçenek ekleyebilirsiniz. Daha fazlası için Google Drive entegrasyonu yapmanız gerekmektedir.",
+      "MIN-LENGTH-WARNING": "Minimum karakter sayısı alanı, maximum karakter sayısı alanından büyük olamaz.",
+      "MAXIMUM-USAGE-LIMIT": "En fazla (x) adet alan ekleyebilirsiniz.",
+      "MAXIMUM-USAGE-LIMIT-FOR-CUSTOMIZATION-FORM": "En fazla 10 adet alan ekleyebilirsiniz."
+    }
+  },
+  "CONTENT_AI": {
+    "VALIDATION": "Lütfen alanları doldurunuz!",
+    "TRY_AGAIN": "Lütfen tekrar deneyiniz!",
+    "INFORMATION": {
+      "INPUT": {
+        "SUBJECT" : "Lütfen AI aracından oluşturmasını istediğiniz konuyu yazınız.",
+        "CHARACTER" : {
+          "SALES_EXPERT": "Ürün veya hizmetleri müşterilere etkili bir şekilde tanıtarak, müşteri ihtiyaçlarını anlayıp çözümler sunarak ve müşteri ilişkilerini güçlendirerek satış hacmini artırmaya odaklanan bir karakterdir.",
+          "SEO_EXPERT": "Web sitelerini arama motorlarında daha üst sıralara çıkarmak için strateji ve teknikleri uygulayan bir karakterdir. Sitenizin görünürlüğünü artırarak organik trafik çekmeye odaklanır.",
+          "CREATOR": "İlgi çekici ve değerli içerikler oluşturan, hedef kitleyi etkilemeye çalışan bir karakterdir.",
+          "FUN": "Kullanıcılarla etkileşimde bulunurken mizahi ve neşeli bir ton kullanarak iletişim kurabilen, esprili ve sıcakkanlı bir karakterdir.",
+          "WRITER": "Duyguları etkileyici bir dille ifade eden ve hayal gücünü yaratıcı bir şekilde kullanan bir karakterdir."
+        },
+        "CHARACTER_COMMENT" : "Seçtiğiniz karakteri yönlendirebilirsiniz."
+      },
+      "OUTPUT": {
+        "TOKEN_LIMIT": "1 Kelime ortalama 3 ile 5 token arası maliyete sahiptir. Oluşan içeriğe göre değişkenlik göstermektedir. (Kullanılan/Limit)",
+        "TOKEN_DURATION": "Belirlenen tarihe kadar kullanım olacaktır.",
+        "TOKEN_UNLIMITED": "Süresiz kullanım."
+      }
+    },
+    "MODAL_TITLE": {
+      "BLOG_TITLE": "Blog Başlığı Oluşturun",
+      "BLOG_CONTENT": "Blog İçeriği Oluşturun",
+      "PAGE_TITLE": "Sayfa Başlığı Oluşturun",
+      "PAGE_CONTENT": "Sayfa İçeriği Oluşturun",
+      "PRODUCT_CONTENT": "Ürün İçeriği Oluşturun",
+      "CATEGORY_HEADER_CONTENT": "Kategori İçeriği Oluşturun",
+      "CATEGORY_FOOTER_CONTENT": "Kategori İçeriği Oluşturun",
+      "BRAND_HEADER_CONTENT": "Marka İçeriği Oluşturun",
+      "BRAND_FOOTER_CONTENT": "Marka İçeriği Oluşturun"
+    },
+    "MODAL_INPUT_PLACEHOLDER" : {
+      "BLOG": {
+        "SUBJECT": "Örn: Filtre kahve demleme yöntemleri",
+        "CHARACTER": "Örn: Yeni başlayanlardan bahset"
+      },
+      "PAGE": {
+        "SUBJECT": "Örn: Filtre kahve demleme yöntemleri",
+        "CHARACTER": "Örn: Yeni başlayanlardan bahset"
+      },
+      "PRODUCT": {
+        "SUBJECT": "Örn: Pamuklu oversize tişört",
+        "CHARACTER": "Örn: Rahat kesimden bahset"
+      },
+      "CATEGORY": {
+        "SUBJECT": "Örn: Pamuklu giysilerin avantajları",
+        "CHARACTER": "Örn: Her mevsim giyilebileceğinden bahset"
+      },
+      "BRAND": {
+        "SUBJECT": "Örn: XYZ Giyim Markası",
+        "CHARACTER": "Örn: Yüksek kalite ve müşteri memnuniyetinden bahset"
+      }
+    },
+    "OTHER": {
+      "SUBJECT": "Konu",
+      "SALES_EXPERT": "Satış Uzmanı",
+      "SEO_EXPERT": "Seo Uzmanı",
+      "CREATOR": "İçerik Üretici",
+      "FUN": "Eğlenceli",
+      "WRITER": "Yazar",
+      "CHARACTER": "Karakter",
+      "CHARACTER_COMMENT": "Karakteri Yönlendir",
+      "CHARACTER_COMMENT_DESCRIPTION": "İsteğe Bağlı",
+      "PARAGRAPH": "Paragraf",
+      "WORD": "Kelime",
+      "CHARACTER_CONTENT": "İçeriği",
+      "GENERATE": "Oluştur",
+      "ADD": "Ekle",
+      "CHANGE": "İçerikle Değiştir",
+      "COPY_TO_CLIPBOARD": "Panoya Kopyala",
+      "USAGE_TOKEN": "Kullanılan",
+      "BUY_TOKEN": "Satın Al",
+      "MODAL_HIDE_CONFIRM": "Token'ınızı kullanarak bir içerik oluşturdunuz. İçeriği kullanmadan kapatmak istediğinize emin misiniz?",
+      "GENERATE_TIMEOUT": "İçerik üretilirken 30 saniyelik zaman aşımına uğradınız. Lütfen tekrar deneyiniz",
+      "PLEASE_SELECTED_FOR_TITLE": "Lütfen seçim yapınız..."
+    }
+  }
+}
